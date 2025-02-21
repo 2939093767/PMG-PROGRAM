@@ -1,0 +1,1820 @@
+DFL-CNN <==> Train <==> Epoch: [1/150]
+Loss_concat (1.8045)	Loss_split (0.1575)	train_loss  (6.8200)	Prec (0.720)
+DFL-CNN <==> Train <==> Epoch: [2/150]
+Loss_concat (0.6591)	Loss_split (0.0464)	train_loss  (3.5487)	Prec (0.895)
+DFL-CNN <==> Train <==> Epoch: [3/150]
+Loss_concat (0.3509)	Loss_split (0.0345)	train_loss  (2.5219)	Prec (0.944)
+DFL-CNN <==> Train <==> Epoch: [1/150]
+Loss_concat (1.0415)	Loss_split (0.0950)	train_loss  (4.9736)	Prec (85.317)
+DFL-CNN <==> Train <==> Epoch: [2/150]
+Loss_concat (0.1608)	Loss_split (0.0169)	train_loss  (1.6696)	Prec (97.781)
+DFL-CNN <==> Train <==> Epoch: [3/150]
+Loss_concat (0.0701)	Loss_split (0.0055)	train_loss  (1.1340)	Prec (99.103)
+DFL-CNN <==> Train <==> Epoch: [4/150]
+Loss_concat (0.0482)	Loss_split (0.0045)	train_loss  (0.8758)	Prec (99.438)
+DFL-CNN <==> Train <==> Epoch: [5/150]
+Loss_concat (0.0224)	Loss_split (0.0054)	train_loss  (0.6457)	Prec (99.846)
+DFL-CNN <==> Train <==> Epoch: [6/150]
+Loss_concat (0.0234)	Loss_split (0.0067)	train_loss  (0.6026)	Prec (99.819)
+DFL-CNN <==> Train <==> Epoch: [7/150]
+Loss_concat (0.0268)	Loss_split (0.0060)	train_loss  (0.5786)	Prec (99.746)
+DFL-CNN <==> Train <==> Epoch: [8/150]
+Loss_concat (0.0269)	Loss_split (0.0039)	train_loss  (0.5331)	Prec (99.728)
+DFL-CNN <==> Train <==> Epoch: [9/150]
+Loss_concat (0.0323)	Loss_split (0.0062)	train_loss  (0.5466)	Prec (99.674)
+DFL-CNN <==> Train <==> Epoch: [10/150]
+Loss_concat (0.0746)	Loss_split (0.0107)	train_loss  (0.7394)	Prec (99.022)
+DFL-CNN <==> Train <==> Epoch: [11/150]
+Loss_concat (0.0414)	Loss_split (0.0090)	train_loss  (0.5696)	Prec (99.592)
+DFL-CNN <==> Train <==> Epoch: [12/150]
+Loss_concat (0.0214)	Loss_split (0.0046)	train_loss  (0.4531)	Prec (99.855)
+DFL-CNN <==> Train <==> Epoch: [13/150]
+Loss_concat (0.0234)	Loss_split (0.0087)	train_loss  (0.4822)	Prec (99.810)
+DFL-CNN <==> Train <==> Epoch: [14/150]
+Loss_concat (0.0290)	Loss_split (0.0069)	train_loss  (0.5072)	Prec (99.755)
+DFL-CNN <==> Train <==> Epoch: [15/150]
+Loss_concat (0.0390)	Loss_split (0.0101)	train_loss  (0.5141)	Prec (99.520)
+DFL-CNN <==> Train <==> Epoch: [16/150]
+Loss_concat (0.0528)	Loss_split (0.0131)	train_loss  (0.6442)	Prec (99.357)
+DFL-CNN <==> Train <==> Epoch: [17/150]
+Loss_concat (0.0360)	Loss_split (0.0118)	train_loss  (0.5106)	Prec (99.692)
+DFL-CNN <==> Train <==> Epoch: [18/150]
+Loss_concat (0.0175)	Loss_split (0.0034)	train_loss  (0.3913)	Prec (99.891)
+DFL-CNN <==> Train <==> Epoch: [19/150]
+Loss_concat (0.0280)	Loss_split (0.0095)	train_loss  (0.4469)	Prec (99.783)
+DFL-CNN <==> Train <==> Epoch: [20/150]
+Loss_concat (0.0505)	Loss_split (0.0126)	train_loss  (0.6602)	Prec (99.402)
+DFL-CNN <==> Train <==> Epoch: [21/150]
+Loss_concat (0.0426)	Loss_split (0.0098)	train_loss  (0.5664)	Prec (99.601)
+DFL-CNN <==> Train <==> Epoch: [22/150]
+Loss_concat (0.0289)	Loss_split (0.0106)	train_loss  (0.4648)	Prec (99.746)
+DFL-CNN <==> Train <==> Epoch: [23/150]
+Loss_concat (0.0237)	Loss_split (0.0116)	train_loss  (0.3773)	Prec (99.837)
+DFL-CNN <==> Train <==> Epoch: [24/150]
+Loss_concat (0.0142)	Loss_split (0.0081)	train_loss  (0.3199)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [25/150]
+Loss_concat (0.0132)	Loss_split (0.0079)	train_loss  (0.3258)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [26/150]
+Loss_concat (0.0307)	Loss_split (0.0103)	train_loss  (0.5284)	Prec (99.755)
+DFL-CNN <==> Train <==> Epoch: [27/150]
+Loss_concat (0.0309)	Loss_split (0.0109)	train_loss  (0.5113)	Prec (99.755)
+DFL-CNN <==> Train <==> Epoch: [28/150]
+Loss_concat (0.0410)	Loss_split (0.0134)	train_loss  (0.5285)	Prec (99.547)
+DFL-CNN <==> Train <==> Epoch: [29/150]
+Loss_concat (0.0192)	Loss_split (0.0103)	train_loss  (0.3759)	Prec (99.900)
+DFL-CNN <==> Train <==> Epoch: [30/150]
+Loss_concat (0.0262)	Loss_split (0.0106)	train_loss  (0.4097)	Prec (99.819)
+DFL-CNN <==> Train <==> Epoch: [31/150]
+Loss_concat (0.0156)	Loss_split (0.0122)	train_loss  (0.3442)	Prec (99.918)
+DFL-CNN <==> Train <==> Epoch: [32/150]
+Loss_concat (0.0216)	Loss_split (0.0102)	train_loss  (0.4113)	Prec (99.846)
+DFL-CNN <==> Train <==> Epoch: [33/150]
+Loss_concat (0.0168)	Loss_split (0.0142)	train_loss  (0.3645)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [34/150]
+Loss_concat (0.0176)	Loss_split (0.0132)	train_loss  (0.3421)	Prec (99.891)
+DFL-CNN <==> Train <==> Epoch: [35/150]
+Loss_concat (0.0191)	Loss_split (0.0134)	train_loss  (0.3781)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [36/150]
+Loss_concat (0.0204)	Loss_split (0.0162)	train_loss  (0.4223)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [37/150]
+Loss_concat (0.0211)	Loss_split (0.0131)	train_loss  (0.3906)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [38/150]
+Loss_concat (0.0236)	Loss_split (0.0114)	train_loss  (0.4323)	Prec (99.837)
+DFL-CNN <==> Train <==> Epoch: [39/150]
+Loss_concat (0.0250)	Loss_split (0.0162)	train_loss  (0.4049)	Prec (99.864)
+DFL-CNN <==> Train <==> Epoch: [40/150]
+Loss_concat (0.0152)	Loss_split (0.0152)	train_loss  (0.2988)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [41/150]
+Loss_concat (0.0118)	Loss_split (0.0106)	train_loss  (0.2740)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [42/150]
+Loss_concat (0.0105)	Loss_split (0.0133)	train_loss  (0.2368)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [43/150]
+Loss_concat (0.0075)	Loss_split (0.0097)	train_loss  (0.2004)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [44/150]
+Loss_concat (0.0085)	Loss_split (0.0094)	train_loss  (0.2204)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [45/150]
+Loss_concat (0.0171)	Loss_split (0.0170)	train_loss  (0.3476)	Prec (99.918)
+DFL-CNN <==> Train <==> Epoch: [46/150]
+Loss_concat (0.0179)	Loss_split (0.0147)	train_loss  (0.3784)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [47/150]
+Loss_concat (0.0188)	Loss_split (0.0178)	train_loss  (0.3599)	Prec (99.918)
+DFL-CNN <==> Train <==> Epoch: [48/150]
+Loss_concat (0.0162)	Loss_split (0.0185)	train_loss  (0.3104)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [49/150]
+Loss_concat (0.0186)	Loss_split (0.0132)	train_loss  (0.3818)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [50/150]
+Loss_concat (0.0126)	Loss_split (0.0111)	train_loss  (0.2550)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [51/150]
+Loss_concat (0.0085)	Loss_split (0.0081)	train_loss  (0.2011)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [52/150]
+Loss_concat (0.0055)	Loss_split (0.0080)	train_loss  (0.1340)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [53/150]
+Loss_concat (0.0058)	Loss_split (0.0111)	train_loss  (0.1242)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [54/150]
+Loss_concat (0.0068)	Loss_split (0.0136)	train_loss  (0.1563)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [55/150]
+Loss_concat (0.0119)	Loss_split (0.0147)	train_loss  (0.2373)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [56/150]
+Loss_concat (0.0108)	Loss_split (0.0099)	train_loss  (0.2439)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [57/150]
+Loss_concat (0.0174)	Loss_split (0.0157)	train_loss  (0.3481)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [58/150]
+Loss_concat (0.0220)	Loss_split (0.0199)	train_loss  (0.3463)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [59/150]
+Loss_concat (0.0181)	Loss_split (0.0138)	train_loss  (0.3276)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [60/150]
+Loss_concat (0.0078)	Loss_split (0.0104)	train_loss  (0.1610)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [61/150]
+Loss_concat (0.0065)	Loss_split (0.0111)	train_loss  (0.1454)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [62/150]
+Loss_concat (0.0082)	Loss_split (0.0096)	train_loss  (0.1796)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [63/150]
+Loss_concat (0.0067)	Loss_split (0.0107)	train_loss  (0.1521)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [64/150]
+Loss_concat (0.0064)	Loss_split (0.0070)	train_loss  (0.1315)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [65/150]
+Loss_concat (0.0066)	Loss_split (0.0103)	train_loss  (0.1182)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [66/150]
+Loss_concat (0.0052)	Loss_split (0.0074)	train_loss  (0.0936)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [67/150]
+Loss_concat (0.0028)	Loss_split (0.0034)	train_loss  (0.0491)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [68/150]
+Loss_concat (0.0031)	Loss_split (0.0062)	train_loss  (0.0523)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [69/150]
+Loss_concat (0.0029)	Loss_split (0.0045)	train_loss  (0.0445)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [70/150]
+Loss_concat (0.0031)	Loss_split (0.0066)	train_loss  (0.0457)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [71/150]
+Loss_concat (0.0061)	Loss_split (0.0087)	train_loss  (0.1041)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [72/150]
+Loss_concat (0.0073)	Loss_split (0.0093)	train_loss  (0.1177)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [73/150]
+Loss_concat (0.0077)	Loss_split (0.0090)	train_loss  (0.1321)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [74/150]
+Loss_concat (0.0092)	Loss_split (0.0102)	train_loss  (0.1810)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [75/150]
+Loss_concat (0.0110)	Loss_split (0.0131)	train_loss  (0.1876)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [76/150]
+Loss_concat (0.0084)	Loss_split (0.0108)	train_loss  (0.1346)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [77/150]
+Loss_concat (0.0061)	Loss_split (0.0080)	train_loss  (0.0964)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [78/150]
+Loss_concat (0.0049)	Loss_split (0.0045)	train_loss  (0.0852)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [79/150]
+Loss_concat (0.0042)	Loss_split (0.0050)	train_loss  (0.0604)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [80/150]
+Loss_concat (0.0032)	Loss_split (0.0037)	train_loss  (0.0383)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [81/150]
+Loss_concat (0.0025)	Loss_split (0.0035)	train_loss  (0.0262)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [82/150]
+Loss_concat (0.0027)	Loss_split (0.0033)	train_loss  (0.0292)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [83/150]
+Loss_concat (0.0022)	Loss_split (0.0014)	train_loss  (0.0201)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [84/150]
+Loss_concat (0.0030)	Loss_split (0.0019)	train_loss  (0.0276)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [85/150]
+Loss_concat (0.0025)	Loss_split (0.0020)	train_loss  (0.0219)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [86/150]
+Loss_concat (0.0026)	Loss_split (0.0013)	train_loss  (0.0233)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [87/150]
+Loss_concat (0.0037)	Loss_split (0.0041)	train_loss  (0.0365)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [88/150]
+Loss_concat (0.0029)	Loss_split (0.0014)	train_loss  (0.0244)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [89/150]
+Loss_concat (0.0032)	Loss_split (0.0009)	train_loss  (0.0297)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [90/150]
+Loss_concat (0.0027)	Loss_split (0.0011)	train_loss  (0.0220)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [91/150]
+Loss_concat (0.0028)	Loss_split (0.0023)	train_loss  (0.0212)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [92/150]
+Loss_concat (0.0028)	Loss_split (0.0019)	train_loss  (0.0211)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [93/150]
+Loss_concat (0.0026)	Loss_split (0.0010)	train_loss  (0.0175)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [94/150]
+Loss_concat (0.0025)	Loss_split (0.0014)	train_loss  (0.0174)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [95/150]
+Loss_concat (0.0027)	Loss_split (0.0014)	train_loss  (0.0175)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [96/150]
+Loss_concat (0.0029)	Loss_split (0.0010)	train_loss  (0.0205)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [97/150]
+Loss_concat (0.0028)	Loss_split (0.0010)	train_loss  (0.0173)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [98/150]
+Loss_concat (0.0029)	Loss_split (0.0010)	train_loss  (0.0190)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [99/150]
+Loss_concat (0.0030)	Loss_split (0.0008)	train_loss  (0.0202)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [100/150]
+Loss_concat (0.0034)	Loss_split (0.0012)	train_loss  (0.0218)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [101/150]
+Loss_concat (0.0029)	Loss_split (0.0007)	train_loss  (0.0175)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [102/150]
+Loss_concat (0.0029)	Loss_split (0.0006)	train_loss  (0.0170)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [103/150]
+Loss_concat (0.0028)	Loss_split (0.0016)	train_loss  (0.0165)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [104/150]
+Loss_concat (0.0034)	Loss_split (0.0013)	train_loss  (0.0211)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [105/150]
+Loss_concat (0.0030)	Loss_split (0.0010)	train_loss  (0.0178)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [106/150]
+Loss_concat (0.0032)	Loss_split (0.0011)	train_loss  (0.0200)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [107/150]
+Loss_concat (0.0033)	Loss_split (0.0006)	train_loss  (0.0196)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [108/150]
+Loss_concat (0.0028)	Loss_split (0.0008)	train_loss  (0.0161)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [109/150]
+Loss_concat (0.0030)	Loss_split (0.0005)	train_loss  (0.0176)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [110/150]
+Loss_concat (0.0048)	Loss_split (0.0016)	train_loss  (0.0390)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [111/150]
+Loss_concat (0.0034)	Loss_split (0.0017)	train_loss  (0.0200)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [112/150]
+Loss_concat (0.0031)	Loss_split (0.0013)	train_loss  (0.0180)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [113/150]
+Loss_concat (0.0029)	Loss_split (0.0008)	train_loss  (0.0157)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [114/150]
+Loss_concat (0.0030)	Loss_split (0.0009)	train_loss  (0.0168)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [115/150]
+Loss_concat (0.0031)	Loss_split (0.0005)	train_loss  (0.0172)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [116/150]
+Loss_concat (0.0040)	Loss_split (0.0016)	train_loss  (0.0266)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [117/150]
+Loss_concat (0.0031)	Loss_split (0.0007)	train_loss  (0.0169)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [118/150]
+Loss_concat (0.0029)	Loss_split (0.0012)	train_loss  (0.0155)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [119/150]
+Loss_concat (0.0029)	Loss_split (0.0009)	train_loss  (0.0153)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [120/150]
+Loss_concat (0.0028)	Loss_split (0.0004)	train_loss  (0.0148)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [121/150]
+Loss_concat (0.0029)	Loss_split (0.0008)	train_loss  (0.0151)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [122/150]
+Loss_concat (0.0031)	Loss_split (0.0007)	train_loss  (0.0160)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [123/150]
+Loss_concat (0.0028)	Loss_split (0.0007)	train_loss  (0.0143)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [124/150]
+Loss_concat (0.0029)	Loss_split (0.0005)	train_loss  (0.0151)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [125/150]
+Loss_concat (0.0030)	Loss_split (0.0004)	train_loss  (0.0150)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [126/150]
+Loss_concat (0.0029)	Loss_split (0.0008)	train_loss  (0.0148)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [127/150]
+Loss_concat (0.0029)	Loss_split (0.0006)	train_loss  (0.0147)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [128/150]
+Loss_concat (0.0028)	Loss_split (0.0003)	train_loss  (0.0143)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [129/150]
+Loss_concat (0.0029)	Loss_split (0.0004)	train_loss  (0.0148)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [130/150]
+Loss_concat (0.0028)	Loss_split (0.0012)	train_loss  (0.0145)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [131/150]
+Loss_concat (0.0029)	Loss_split (0.0006)	train_loss  (0.0149)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [132/150]
+Loss_concat (0.0029)	Loss_split (0.0001)	train_loss  (0.0147)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [133/150]
+Loss_concat (0.0029)	Loss_split (0.0001)	train_loss  (0.0145)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [134/150]
+Loss_concat (0.0029)	Loss_split (0.0014)	train_loss  (0.0146)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [135/150]
+Loss_concat (0.0028)	Loss_split (0.0007)	train_loss  (0.0138)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [136/150]
+Loss_concat (0.0029)	Loss_split (0.0006)	train_loss  (0.0143)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [137/150]
+Loss_concat (0.0029)	Loss_split (0.0006)	train_loss  (0.0144)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [138/150]
+Loss_concat (0.0029)	Loss_split (0.0009)	train_loss  (0.0139)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [139/150]
+Loss_concat (0.0028)	Loss_split (0.0003)	train_loss  (0.0140)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [140/150]
+Loss_concat (0.0029)	Loss_split (0.0003)	train_loss  (0.0148)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [141/150]
+Loss_concat (0.0029)	Loss_split (0.0008)	train_loss  (0.0145)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [142/150]
+Loss_concat (0.0027)	Loss_split (0.0004)	train_loss  (0.0134)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [143/150]
+Loss_concat (0.0028)	Loss_split (0.0005)	train_loss  (0.0138)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [144/150]
+Loss_concat (0.0029)	Loss_split (0.0005)	train_loss  (0.0141)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [145/150]
+Loss_concat (0.0028)	Loss_split (0.0003)	train_loss  (0.0137)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [146/150]
+Loss_concat (0.0028)	Loss_split (0.0005)	train_loss  (0.0136)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [147/150]
+Loss_concat (0.0028)	Loss_split (0.0007)	train_loss  (0.0137)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [148/150]
+Loss_concat (0.0029)	Loss_split (0.0006)	train_loss  (0.0144)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [149/150]
+Loss_concat (0.0028)	Loss_split (0.0004)	train_loss  (0.0139)	Prec (100.000)
+
+
+
+
+DFL-CNN <==> Train <==> Epoch: [1/150]
+Loss_concat (6.0721)	Loss_split (0.1750)	train_loss  (9.9145)	Prec (68.080)
+DFL-CNN <==> Train <==> Epoch: [2/150]
+Loss_concat (5.6156)	Loss_split (0.0392)	train_loss  (7.4474)	Prec (87.355)
+DFL-CNN <==> Train <==> Epoch: [3/150]
+Loss_concat (5.5473)	Loss_split (0.0288)	train_loss  (6.9082)	Prec (90.100)
+DFL-CNN <==> Train <==> Epoch: [4/150]
+Loss_concat (5.5175)	Loss_split (0.0266)	train_loss  (6.6740)	Prec (91.259)
+DFL-CNN <==> Train <==> Epoch: [5/150]
+Loss_concat (5.4755)	Loss_split (0.0289)	train_loss  (6.4698)	Prec (93.397)
+DFL-CNN <==> Train <==> Epoch: [6/150]
+Loss_concat (5.4527)	Loss_split (0.0227)	train_loss  (6.4659)	Prec (94.647)
+DFL-CNN <==> Train <==> Epoch: [7/150]
+Loss_concat (5.4093)	Loss_split (0.0217)	train_loss  (6.2736)	Prec (96.504)
+DFL-CNN <==> Train <==> Epoch: [8/150]
+Loss_concat (5.4198)	Loss_split (0.0283)	train_loss  (6.4503)	Prec (96.168)
+DFL-CNN <==> Train <==> Epoch: [9/150]
+Loss_concat (5.4107)	Loss_split (0.0312)	train_loss  (6.2937)	Prec (96.467)
+DFL-CNN <==> Train <==> Epoch: [10/150]
+Loss_concat (5.3904)	Loss_split (0.0287)	train_loss  (6.1588)	Prec (97.210)
+DFL-CNN <==> Train <==> Epoch: [11/150]
+Loss_concat (5.4013)	Loss_split (0.0356)	train_loss  (6.1904)	Prec (96.766)
+DFL-CNN <==> Train <==> Epoch: [12/150]
+Loss_concat (5.4012)	Loss_split (0.0299)	train_loss  (6.2559)	Prec (96.766)
+DFL-CNN <==> Train <==> Epoch: [13/150]
+Loss_concat (5.4047)	Loss_split (0.0356)	train_loss  (6.2819)	Prec (96.621)
+DFL-CNN <==> Train <==> Epoch: [14/150]
+Loss_concat (5.3966)	Loss_split (0.0379)	train_loss  (6.1467)	Prec (96.839)
+DFL-CNN <==> Train <==> Epoch: [15/150]
+Loss_concat (5.4028)	Loss_split (0.0435)	train_loss  (6.1910)	Prec (96.775)
+DFL-CNN <==> Train <==> Epoch: [16/150]
+Loss_concat (5.4087)	Loss_split (0.0422)	train_loss  (6.2154)	Prec (96.458)
+DFL-CNN <==> Train <==> Epoch: [17/150]
+Loss_concat (5.4057)	Loss_split (0.0478)	train_loss  (6.1789)	Prec (96.576)
+DFL-CNN <==> Train <==> Epoch: [18/150]
+Loss_concat (5.3928)	Loss_split (0.0390)	train_loss  (6.1471)	Prec (97.074)
+DFL-CNN <==> Train <==> Epoch: [19/150]
+Loss_concat (5.3957)	Loss_split (0.0518)	train_loss  (6.1133)	Prec (96.830)
+DFL-CNN <==> Train <==> Epoch: [20/150]
+Loss_concat (5.3952)	Loss_split (0.0427)	train_loss  (6.1750)	Prec (97.201)
+DFL-CNN <==> Train <==> Epoch: [21/150]
+Loss_concat (5.3899)	Loss_split (0.0544)	train_loss  (6.0890)	Prec (97.129)
+DFL-CNN <==> Train <==> Epoch: [22/150]
+Loss_concat (5.3910)	Loss_split (0.0479)	train_loss  (6.0970)	Prec (97.165)
+DFL-CNN <==> Train <==> Epoch: [23/150]
+Loss_concat (5.3916)	Loss_split (0.0378)	train_loss  (6.0751)	Prec (97.029)
+DFL-CNN <==> Train <==> Epoch: [24/150]
+Loss_concat (5.3909)	Loss_split (0.0439)	train_loss  (6.1178)	Prec (97.138)
+DFL-CNN <==> Train <==> Epoch: [25/150]
+Loss_concat (5.3941)	Loss_split (0.0394)	train_loss  (6.0599)	Prec (96.966)
+DFL-CNN <==> Train <==> Epoch: [26/150]
+Loss_concat (5.3908)	Loss_split (0.0479)	train_loss  (6.0641)	Prec (97.083)
+DFL-CNN <==> Train <==> Epoch: [27/150]
+Loss_concat (5.3971)	Loss_split (0.0519)	train_loss  (6.0624)	Prec (96.866)
+DFL-CNN <==> Train <==> Epoch: [28/150]
+Loss_concat (5.3896)	Loss_split (0.0379)	train_loss  (5.9261)	Prec (96.957)
+DFL-CNN <==> Train <==> Epoch: [29/150]
+Loss_concat (5.3854)	Loss_split (0.0438)	train_loss  (5.9951)	Prec (97.274)
+DFL-CNN <==> Train <==> Epoch: [30/150]
+Loss_concat (5.3926)	Loss_split (0.0443)	train_loss  (6.0046)	Prec (96.947)
+DFL-CNN <==> Train <==> Epoch: [31/150]
+Loss_concat (5.3889)	Loss_split (0.0484)	train_loss  (5.9081)	Prec (97.029)
+DFL-CNN <==> Train <==> Epoch: [32/150]
+Loss_concat (5.3885)	Loss_split (0.0397)	train_loss  (6.0173)	Prec (97.129)
+DFL-CNN <==> Train <==> Epoch: [33/150]
+Loss_concat (5.3961)	Loss_split (0.0508)	train_loss  (6.0326)	Prec (96.812)
+DFL-CNN <==> Train <==> Epoch: [34/150]
+Loss_concat (5.3945)	Loss_split (0.0417)	train_loss  (5.9280)	Prec (96.676)
+DFL-CNN <==> Train <==> Epoch: [35/150]
+Loss_concat (5.3824)	Loss_split (0.0409)	train_loss  (5.9394)	Prec (97.409)
+DFL-CNN <==> Train <==> Epoch: [36/150]
+Loss_concat (5.3839)	Loss_split (0.0361)	train_loss  (5.8608)	Prec (97.228)
+DFL-CNN <==> Train <==> Epoch: [37/150]
+Loss_concat (5.3869)	Loss_split (0.0393)	train_loss  (5.9144)	Prec (97.056)
+DFL-CNN <==> Train <==> Epoch: [38/150]
+Loss_concat (5.3441)	Loss_split (0.0438)	train_loss  (5.8828)	Prec (99.638)
+DFL-CNN <==> Train <==> Epoch: [39/150]
+Loss_concat (5.3377)	Loss_split (0.0412)	train_loss  (5.8747)	Prec (99.783)
+DFL-CNN <==> Train <==> Epoch: [40/150]
+Loss_concat (5.3334)	Loss_split (0.0363)	train_loss  (5.7852)	Prec (99.873)
+DFL-CNN <==> Train <==> Epoch: [41/150]
+Loss_concat (5.3308)	Loss_split (0.0533)	train_loss  (5.7596)	Prec (99.900)
+DFL-CNN <==> Train <==> Epoch: [42/150]
+Loss_concat (5.3282)	Loss_split (0.0339)	train_loss  (5.7470)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [43/150]
+Loss_concat (5.3296)	Loss_split (0.0359)	train_loss  (5.7631)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [44/150]
+Loss_concat (5.3287)	Loss_split (0.0439)	train_loss  (5.7004)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [45/150]
+Loss_concat (5.3335)	Loss_split (0.0392)	train_loss  (5.8357)	Prec (99.900)
+DFL-CNN <==> Train <==> Epoch: [46/150]
+Loss_concat (5.3335)	Loss_split (0.0345)	train_loss  (5.8276)	Prec (99.810)
+DFL-CNN <==> Train <==> Epoch: [47/150]
+Loss_concat (5.3305)	Loss_split (0.0440)	train_loss  (5.7531)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [48/150]
+Loss_concat (5.3296)	Loss_split (0.0343)	train_loss  (5.7300)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [49/150]
+Loss_concat (5.3274)	Loss_split (0.0318)	train_loss  (5.6727)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [50/150]
+Loss_concat (5.3258)	Loss_split (0.0404)	train_loss  (5.6576)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [51/150]
+Loss_concat (5.3265)	Loss_split (0.0393)	train_loss  (5.6745)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [52/150]
+Loss_concat (5.3248)	Loss_split (0.0342)	train_loss  (5.6032)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [53/150]
+Loss_concat (5.3266)	Loss_split (0.0356)	train_loss  (5.6404)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [54/150]
+Loss_concat (5.3285)	Loss_split (0.0340)	train_loss  (5.7181)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [55/150]
+Loss_concat (5.3275)	Loss_split (0.0319)	train_loss  (5.7080)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [56/150]
+Loss_concat (5.3280)	Loss_split (0.0331)	train_loss  (5.6977)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [57/150]
+Loss_concat (5.3230)	Loss_split (0.0261)	train_loss  (5.5728)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [58/150]
+Loss_concat (5.3271)	Loss_split (0.0307)	train_loss  (5.6403)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [59/150]
+Loss_concat (5.3213)	Loss_split (0.0279)	train_loss  (5.5512)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [60/150]
+Loss_concat (5.3207)	Loss_split (0.0228)	train_loss  (5.5162)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [61/150]
+Loss_concat (5.3239)	Loss_split (0.0283)	train_loss  (5.5856)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [62/150]
+Loss_concat (5.3248)	Loss_split (0.0255)	train_loss  (5.6117)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [63/150]
+Loss_concat (5.3232)	Loss_split (0.0311)	train_loss  (5.5526)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [64/150]
+Loss_concat (5.3235)	Loss_split (0.0257)	train_loss  (5.5788)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [65/150]
+Loss_concat (5.3232)	Loss_split (0.0243)	train_loss  (5.5880)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [66/150]
+Loss_concat (5.3218)	Loss_split (0.0284)	train_loss  (5.5256)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [67/150]
+Loss_concat (5.3202)	Loss_split (0.0282)	train_loss  (5.4795)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [68/150]
+Loss_concat (5.3200)	Loss_split (0.0213)	train_loss  (5.4826)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [69/150]
+Loss_concat (5.3211)	Loss_split (0.0253)	train_loss  (5.4894)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [70/150]
+Loss_concat (5.3209)	Loss_split (0.0254)	train_loss  (5.5021)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [71/150]
+Loss_concat (5.3264)	Loss_split (0.0276)	train_loss  (5.6068)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [72/150]
+Loss_concat (5.3237)	Loss_split (0.0207)	train_loss  (5.5460)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [73/150]
+Loss_concat (5.3221)	Loss_split (0.0254)	train_loss  (5.5079)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [74/150]
+Loss_concat (5.3206)	Loss_split (0.0195)	train_loss  (5.4679)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [75/150]
+Loss_concat (5.3202)	Loss_split (0.0209)	train_loss  (5.4716)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [76/150]
+Loss_concat (5.3211)	Loss_split (0.0229)	train_loss  (5.4643)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [77/150]
+Loss_concat (5.3189)	Loss_split (0.0172)	train_loss  (5.4363)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [78/150]
+Loss_concat (5.3183)	Loss_split (0.0141)	train_loss  (5.4075)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [79/150]
+Loss_concat (5.3175)	Loss_split (0.0104)	train_loss  (5.3912)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [80/150]
+Loss_concat (5.3176)	Loss_split (0.0127)	train_loss  (5.3930)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [81/150]
+Loss_concat (5.3173)	Loss_split (0.0121)	train_loss  (5.3774)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [82/150]
+Loss_concat (5.3169)	Loss_split (0.0096)	train_loss  (5.3711)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [83/150]
+Loss_concat (5.3180)	Loss_split (0.0093)	train_loss  (5.3783)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [84/150]
+Loss_concat (5.3167)	Loss_split (0.0111)	train_loss  (5.3617)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [85/150]
+Loss_concat (5.3167)	Loss_split (0.0113)	train_loss  (5.3562)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [86/150]
+Loss_concat (5.3167)	Loss_split (0.0069)	train_loss  (5.3522)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [87/150]
+Loss_concat (5.3168)	Loss_split (0.0044)	train_loss  (5.3475)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [88/150]
+Loss_concat (5.3164)	Loss_split (0.0042)	train_loss  (5.3433)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [89/150]
+Loss_concat (5.3170)	Loss_split (0.0078)	train_loss  (5.3550)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [90/150]
+Loss_concat (5.3163)	Loss_split (0.0057)	train_loss  (5.3416)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [91/150]
+Loss_concat (5.3162)	Loss_split (0.0058)	train_loss  (5.3390)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [92/150]
+Loss_concat (5.3162)	Loss_split (0.0034)	train_loss  (5.3372)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [93/150]
+Loss_concat (5.3163)	Loss_split (0.0057)	train_loss  (5.3376)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [94/150]
+Loss_concat (5.3171)	Loss_split (0.0057)	train_loss  (5.3455)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [95/150]
+Loss_concat (5.3171)	Loss_split (0.0045)	train_loss  (5.3471)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [96/150]
+Loss_concat (5.3162)	Loss_split (0.0034)	train_loss  (5.3342)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [97/150]
+Loss_concat (5.3162)	Loss_split (0.0037)	train_loss  (5.3337)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [98/150]
+Loss_concat (5.3163)	Loss_split (0.0018)	train_loss  (5.3343)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [99/150]
+Loss_concat (5.3164)	Loss_split (0.0027)	train_loss  (5.3383)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [100/150]
+Loss_concat (5.3168)	Loss_split (0.0038)	train_loss  (5.3412)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [101/150]
+Loss_concat (5.3163)	Loss_split (0.0041)	train_loss  (5.3337)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [102/150]
+Loss_concat (5.3163)	Loss_split (0.0028)	train_loss  (5.3333)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [103/150]
+Loss_concat (5.3165)	Loss_split (0.0019)	train_loss  (5.3339)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [104/150]
+Loss_concat (5.3163)	Loss_split (0.0016)	train_loss  (5.3311)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [105/150]
+Loss_concat (5.3163)	Loss_split (0.0018)	train_loss  (5.3320)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [106/150]
+Loss_concat (5.3164)	Loss_split (0.0015)	train_loss  (5.3326)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [107/150]
+Loss_concat (5.3161)	Loss_split (0.0016)	train_loss  (5.3299)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [108/150]
+Loss_concat (5.3162)	Loss_split (0.0026)	train_loss  (5.3308)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [109/150]
+Loss_concat (5.3161)	Loss_split (0.0018)	train_loss  (5.3299)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [110/150]
+Loss_concat (5.3162)	Loss_split (0.0009)	train_loss  (5.3306)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [111/150]
+Loss_concat (5.3162)	Loss_split (0.0010)	train_loss  (5.3305)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [112/150]
+Loss_concat (5.3161)	Loss_split (0.0015)	train_loss  (5.3295)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [113/150]
+Loss_concat (5.3160)	Loss_split (0.0015)	train_loss  (5.3289)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [114/150]
+Loss_concat (5.3161)	Loss_split (0.0019)	train_loss  (5.3290)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [115/150]
+Loss_concat (5.3162)	Loss_split (0.0018)	train_loss  (5.3304)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [116/150]
+Loss_concat (5.3162)	Loss_split (0.0013)	train_loss  (5.3298)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [117/150]
+Loss_concat (5.3161)	Loss_split (0.0009)	train_loss  (5.3289)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [118/150]
+Loss_concat (5.3160)	Loss_split (0.0002)	train_loss  (5.3277)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [1/150]
+Loss_concat (6.1883)	Loss_split (0.1883)	train_loss  (10.1085)	Prec (61.277)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (7.1850)	Loss_split (1.0549)	train_loss  (18.1197)	Prec (6.019)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (7.0996)	Loss_split (0.9184)	train_loss  (17.3673)	Prec (10.925)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (7.0842)	Loss_split (0.9195)	train_loss  (17.3166)	Prec (11.778)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (7.1153)	Loss_split (0.9281)	train_loss  (17.4572)	Prec (9.883)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (7.1165)	Loss_split (0.9408)	train_loss  (17.4731)	Prec (9.986)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (7.1145)	Loss_split (0.9473)	train_loss  (17.4374)	Prec (10.022)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (7.1604)	Loss_split (0.9692)	train_loss  (17.7358)	Prec (7.347)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (7.3200)	Loss_split (1.0165)	train_loss  (18.2133)	Prec (7.725)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (6.9746)	Loss_split (0.8906)	train_loss  (17.3011)	Prec (9.661)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (6.9078)	Loss_split (0.8810)	train_loss  (17.1196)	Prec (10.736)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (7.1778)	Loss_split (0.9011)	train_loss  (17.5585)	Prec (8.486)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (7.3585)	Loss_split (0.9673)	train_loss  (18.0288)	Prec (7.122)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (6.9085)	Loss_split (1.0736)	train_loss  (17.7470)	Prec (8.847)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (5.7743)	Loss_split (0.8055)	train_loss  (15.9412)	Prec (19.539)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (5.1514)	Loss_split (0.7435)	train_loss  (14.9048)	Prec (27.614)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (4.7287)	Loss_split (0.7268)	train_loss  (14.2001)	Prec (33.219)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (4.5149)	Loss_split (0.7216)	train_loss  (13.8368)	Prec (36.519)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (1.4547)	Loss_split (0.1669)	train_loss  (5.7614)	Prec (77.300)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (0.2780)	Loss_split (0.0633)	train_loss  (2.2486)	Prec (95.617)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.1401)	Loss_split (0.0637)	train_loss  (1.6201)	Prec (98.019)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.1674)	Loss_split (0.0650)	train_loss  (1.6014)	Prec (97.531)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.1061)	Loss_split (0.0571)	train_loss  (1.3264)	Prec (98.586)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.0964)	Loss_split (0.0670)	train_loss  (1.2681)	Prec (98.744)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.0991)	Loss_split (0.0748)	train_loss  (1.2840)	Prec (98.681)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.0897)	Loss_split (0.0700)	train_loss  (1.1866)	Prec (98.800)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.0612)	Loss_split (0.0729)	train_loss  (1.0036)	Prec (99.317)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.0761)	Loss_split (0.0758)	train_loss  (1.0681)	Prec (99.122)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0568)	Loss_split (0.0731)	train_loss  (0.9069)	Prec (99.347)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0605)	Loss_split (0.0737)	train_loss  (0.9526)	Prec (99.364)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0552)	Loss_split (0.0709)	train_loss  (0.8681)	Prec (99.386)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0662)	Loss_split (0.0747)	train_loss  (0.8990)	Prec (99.250)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0510)	Loss_split (0.0684)	train_loss  (0.8381)	Prec (99.472)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0440)	Loss_split (0.0729)	train_loss  (0.7736)	Prec (99.564)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.0522)	Loss_split (0.0689)	train_loss  (0.8102)	Prec (99.486)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.0477)	Loss_split (0.0728)	train_loss  (0.7793)	Prec (99.550)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.0568)	Loss_split (0.0710)	train_loss  (0.8018)	Prec (99.417)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0445)	Loss_split (0.0684)	train_loss  (0.7300)	Prec (99.550)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0576)	Loss_split (0.0764)	train_loss  (0.8196)	Prec (99.394)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0559)	Loss_split (0.0748)	train_loss  (0.7589)	Prec (99.378)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0362)	Loss_split (0.0705)	train_loss  (0.6430)	Prec (99.656)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0451)	Loss_split (0.0702)	train_loss  (0.6818)	Prec (99.533)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0438)	Loss_split (0.0735)	train_loss  (0.6832)	Prec (99.603)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0442)	Loss_split (0.0673)	train_loss  (0.6637)	Prec (99.550)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (0.0360)	Loss_split (0.0645)	train_loss  (0.6253)	Prec (99.697)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (0.0411)	Loss_split (0.0677)	train_loss  (0.6359)	Prec (99.631)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (0.0290)	Loss_split (0.0580)	train_loss  (0.5339)	Prec (99.761)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (0.0479)	Loss_split (0.0669)	train_loss  (0.6990)	Prec (99.528)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (0.0372)	Loss_split (0.0548)	train_loss  (0.4795)	Prec (99.614)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (0.0457)	Loss_split (0.0663)	train_loss  (0.6482)	Prec (99.558)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (0.0333)	Loss_split (0.0559)	train_loss  (0.4647)	Prec (99.647)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (0.0386)	Loss_split (0.0599)	train_loss  (0.6018)	Prec (99.650)
+DFL-CNN <==> Train <==> Epoch: [35/100]
+Loss_concat (0.0287)	Loss_split (0.0586)	train_loss  (0.4792)	Prec (99.767)
+DFL-CNN <==> Train <==> Epoch: [36/100]
+Loss_concat (0.0262)	Loss_split (0.0567)	train_loss  (0.4813)	Prec (99.775)
+DFL-CNN <==> Train <==> Epoch: [37/100]
+Loss_concat (0.0315)	Loss_split (0.0534)	train_loss  (0.5007)	Prec (99.711)
+DFL-CNN <==> Train <==> Epoch: [38/100]
+Loss_concat (0.0242)	Loss_split (0.0525)	train_loss  (0.4718)	Prec (99.825)
+DFL-CNN <==> Train <==> Epoch: [39/100]
+Loss_concat (0.0243)	Loss_split (0.0439)	train_loss  (0.4064)	Prec (99.800)
+DFL-CNN <==> Train <==> Epoch: [40/100]
+Loss_concat (0.0248)	Loss_split (0.0490)	train_loss  (0.4287)	Prec (99.814)
+DFL-CNN <==> Train <==> Epoch: [41/100]
+Loss_concat (0.0243)	Loss_split (0.0456)	train_loss  (0.4126)	Prec (99.831)
+DFL-CNN <==> Train <==> Epoch: [42/100]
+Loss_concat (0.0146)	Loss_split (0.0421)	train_loss  (0.3287)	Prec (99.886)
+DFL-CNN <==> Train <==> Epoch: [43/100]
+Loss_concat (0.0215)	Loss_split (0.0405)	train_loss  (0.3802)	Prec (99.867)
+DFL-CNN <==> Train <==> Epoch: [44/100]
+Loss_concat (0.0158)	Loss_split (0.0414)	train_loss  (0.3496)	Prec (99.914)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (2.6625)	Loss_split (0.1528)	train_loss  (9.7614)	Prec (62.589)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (2.2735)	Loss_split (0.1184)	train_loss  (10.2880)	Prec (72.750)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (0.5927)	Loss_split (0.0279)	train_loss  (5.0297)	Prec (92.336)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.2689)	Loss_split (0.0167)	train_loss  (3.5255)	Prec (96.958)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.1428)	Loss_split (0.0111)	train_loss  (2.6995)	Prec (98.658)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.1002)	Loss_split (0.0131)	train_loss  (2.2029)	Prec (99.150)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.0668)	Loss_split (0.0087)	train_loss  (1.8018)	Prec (99.533)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.0614)	Loss_split (0.0089)	train_loss  (1.5755)	Prec (99.547)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.0547)	Loss_split (0.0080)	train_loss  (1.3714)	Prec (99.606)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.0449)	Loss_split (0.0053)	train_loss  (1.2111)	Prec (99.717)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.0459)	Loss_split (0.0061)	train_loss  (1.0947)	Prec (99.694)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0446)	Loss_split (0.0080)	train_loss  (1.0019)	Prec (99.681)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0484)	Loss_split (0.0062)	train_loss  (0.9559)	Prec (99.675)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0514)	Loss_split (0.0071)	train_loss  (0.8950)	Prec (99.675)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0445)	Loss_split (0.0059)	train_loss  (0.8263)	Prec (99.736)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0413)	Loss_split (0.0068)	train_loss  (0.7532)	Prec (99.744)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0446)	Loss_split (0.0053)	train_loss  (0.7445)	Prec (99.733)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.0455)	Loss_split (0.0053)	train_loss  (0.7279)	Prec (99.722)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.0413)	Loss_split (0.0059)	train_loss  (0.6751)	Prec (99.756)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.0403)	Loss_split (0.0063)	train_loss  (0.6610)	Prec (99.789)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0429)	Loss_split (0.0082)	train_loss  (0.6396)	Prec (99.711)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0449)	Loss_split (0.0072)	train_loss  (0.6240)	Prec (99.711)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0374)	Loss_split (0.0070)	train_loss  (0.5677)	Prec (99.789)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0395)	Loss_split (0.0076)	train_loss  (0.5607)	Prec (99.750)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0403)	Loss_split (0.0069)	train_loss  (0.5616)	Prec (99.753)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0441)	Loss_split (0.0087)	train_loss  (0.5617)	Prec (99.744)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0391)	Loss_split (0.0074)	train_loss  (0.5130)	Prec (99.767)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (6.1529)	Loss_split (0.3866)	train_loss  (19.0209)	Prec (43.583)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (2.8721)	Loss_split (0.1206)	train_loss  (13.3373)	Prec (74.917)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (1.8186)	Loss_split (0.0910)	train_loss  (10.8748)	Prec (82.875)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (1.2989)	Loss_split (0.0641)	train_loss  (9.3873)	Prec (87.444)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.9948)	Loss_split (0.0496)	train_loss  (8.3842)	Prec (90.172)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.7908)	Loss_split (0.0441)	train_loss  (7.6176)	Prec (92.619)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.6130)	Loss_split (0.0349)	train_loss  (6.9284)	Prec (94.819)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.4829)	Loss_split (0.0345)	train_loss  (6.3901)	Prec (96.414)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.4036)	Loss_split (0.0277)	train_loss  (5.9665)	Prec (97.103)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.3290)	Loss_split (0.0247)	train_loss  (5.5636)	Prec (98.075)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.2746)	Loss_split (0.0240)	train_loss  (5.2427)	Prec (98.533)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.2338)	Loss_split (0.0185)	train_loss  (4.9308)	Prec (98.825)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.1991)	Loss_split (0.0216)	train_loss  (4.6725)	Prec (99.119)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.1786)	Loss_split (0.0185)	train_loss  (4.4432)	Prec (99.172)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.1585)	Loss_split (0.0143)	train_loss  (4.2498)	Prec (99.306)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.1358)	Loss_split (0.0130)	train_loss  (4.0250)	Prec (99.556)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.1232)	Loss_split (0.0144)	train_loss  (3.8507)	Prec (99.575)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.1171)	Loss_split (0.0146)	train_loss  (3.7107)	Prec (99.531)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.1040)	Loss_split (0.0111)	train_loss  (3.5630)	Prec (99.650)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0969)	Loss_split (0.0101)	train_loss  (3.4278)	Prec (99.661)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0896)	Loss_split (0.0124)	train_loss  (3.2831)	Prec (99.675)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0790)	Loss_split (0.0105)	train_loss  (3.1334)	Prec (99.742)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0804)	Loss_split (0.0112)	train_loss  (3.0451)	Prec (99.658)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0720)	Loss_split (0.0078)	train_loss  (2.9224)	Prec (99.753)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0691)	Loss_split (0.0109)	train_loss  (2.8259)	Prec (99.747)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0655)	Loss_split (0.0078)	train_loss  (2.7611)	Prec (99.747)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (0.0626)	Loss_split (0.0082)	train_loss  (2.6409)	Prec (99.764)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (0.0592)	Loss_split (0.0090)	train_loss  (2.5460)	Prec (99.772)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (0.0543)	Loss_split (0.0080)	train_loss  (2.4606)	Prec (99.817)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (0.0536)	Loss_split (0.0065)	train_loss  (2.4010)	Prec (99.833)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (0.0492)	Loss_split (0.0087)	train_loss  (2.3200)	Prec (99.858)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (0.0496)	Loss_split (0.0068)	train_loss  (2.2536)	Prec (99.822)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (0.0492)	Loss_split (0.0075)	train_loss  (2.2073)	Prec (99.806)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (0.0472)	Loss_split (0.0054)	train_loss  (2.1163)	Prec (99.811)
+DFL-CNN <==> Train <==> Epoch: [35/100]
+Loss_concat (0.0466)	Loss_split (0.0050)	train_loss  (2.0765)	Prec (99.808)
+DFL-CNN <==> Train <==> Epoch: [36/100]
+Loss_concat (0.0451)	Loss_split (0.0061)	train_loss  (2.0142)	Prec (99.828)
+DFL-CNN <==> Train <==> Epoch: [37/100]
+Loss_concat (0.0430)	Loss_split (0.0065)	train_loss  (1.9506)	Prec (99.806)
+DFL-CNN <==> Train <==> Epoch: [38/100]
+Loss_concat (0.0418)	Loss_split (0.0063)	train_loss  (1.9136)	Prec (99.847)
+DFL-CNN <==> Train <==> Epoch: [39/100]
+Loss_concat (0.0405)	Loss_split (0.0051)	train_loss  (1.8633)	Prec (99.833)
+DFL-CNN <==> Train <==> Epoch: [40/100]
+Loss_concat (0.0401)	Loss_split (0.0072)	train_loss  (1.8094)	Prec (99.806)
+DFL-CNN <==> Train <==> Epoch: [41/100]
+Loss_concat (0.0369)	Loss_split (0.0051)	train_loss  (1.7553)	Prec (99.867)
+DFL-CNN <==> Train <==> Epoch: [42/100]
+Loss_concat (0.0387)	Loss_split (0.0055)	train_loss  (1.7212)	Prec (99.833)
+DFL-CNN <==> Train <==> Epoch: [43/100]
+Loss_concat (0.0358)	Loss_split (0.0058)	train_loss  (1.6817)	Prec (99.864)
+DFL-CNN <==> Train <==> Epoch: [44/100]
+Loss_concat (0.0347)	Loss_split (0.0036)	train_loss  (1.6335)	Prec (99.878)
+DFL-CNN <==> Train <==> Epoch: [45/100]
+Loss_concat (0.0372)	Loss_split (0.0047)	train_loss  (1.6071)	Prec (99.811)
+DFL-CNN <==> Train <==> Epoch: [46/100]
+Loss_concat (0.0345)	Loss_split (0.0050)	train_loss  (1.5829)	Prec (99.856)
+DFL-CNN <==> Train <==> Epoch: [47/100]
+Loss_concat (0.0345)	Loss_split (0.0055)	train_loss  (1.5199)	Prec (99.833)
+DFL-CNN <==> Train <==> Epoch: [48/100]
+Loss_concat (0.0343)	Loss_split (0.0050)	train_loss  (1.5090)	Prec (99.858)
+DFL-CNN <==> Train <==> Epoch: [49/100]
+Loss_concat (0.0336)	Loss_split (0.0029)	train_loss  (1.4748)	Prec (99.822)
+DFL-CNN <==> Train <==> Epoch: [50/100]
+Loss_concat (0.0325)	Loss_split (0.0033)	train_loss  (1.4387)	Prec (99.839)
+DFL-CNN <==> Train <==> Epoch: [51/100]
+Loss_concat (0.0320)	Loss_split (0.0044)	train_loss  (1.4157)	Prec (99.881)
+DFL-CNN <==> Train <==> Epoch: [52/100]
+Loss_concat (0.0320)	Loss_split (0.0031)	train_loss  (1.3870)	Prec (99.822)
+DFL-CNN <==> Train <==> Epoch: [53/100]
+Loss_concat (0.0312)	Loss_split (0.0029)	train_loss  (1.3696)	Prec (99.836)
+DFL-CNN <==> Train <==> Epoch: [54/100]
+Loss_concat (0.0314)	Loss_split (0.0046)	train_loss  (1.3496)	Prec (99.825)
+DFL-CNN <==> Train <==> Epoch: [55/100]
+Loss_concat (0.0328)	Loss_split (0.0029)	train_loss  (1.3168)	Prec (99.789)
+DFL-CNN <==> Train <==> Epoch: [56/100]
+Loss_concat (0.0315)	Loss_split (0.0037)	train_loss  (1.2913)	Prec (99.833)
+DFL-CNN <==> Train <==> Epoch: [57/100]
+Loss_concat (0.0313)	Loss_split (0.0039)	train_loss  (1.2765)	Prec (99.828)
+DFL-CNN <==> Train <==> Epoch: [58/100]
+Loss_concat (0.0306)	Loss_split (0.0035)	train_loss  (1.2489)	Prec (99.850)
+DFL-CNN <==> Train <==> Epoch: [59/100]
+Loss_concat (0.0314)	Loss_split (0.0043)	train_loss  (1.2504)	Prec (99.822)
+DFL-CNN <==> Train <==> Epoch: [60/100]
+Loss_concat (0.0296)	Loss_split (0.0035)	train_loss  (1.2148)	Prec (99.839)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (4.3306)	Loss_split (0.2552)	train_loss  (15.3531)	Prec (57.369)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (1.5208)	Loss_split (0.0683)	train_loss  (9.1958)	Prec (83.936)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.8739)	Loss_split (0.0433)	train_loss  (6.9419)	Prec (90.908)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.5471)	Loss_split (0.0288)	train_loss  (5.5513)	Prec (94.889)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.3565)	Loss_split (0.0214)	train_loss  (4.5633)	Prec (97.144)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.2435)	Loss_split (0.0190)	train_loss  (3.8464)	Prec (98.408)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.1762)	Loss_split (0.0163)	train_loss  (3.2893)	Prec (99.050)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.1409)	Loss_split (0.0146)	train_loss  (2.8670)	Prec (99.231)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.1103)	Loss_split (0.0125)	train_loss  (2.4971)	Prec (99.464)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.0928)	Loss_split (0.0116)	train_loss  (2.2059)	Prec (99.578)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0786)	Loss_split (0.0097)	train_loss  (1.9641)	Prec (99.658)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0661)	Loss_split (0.0088)	train_loss  (1.7370)	Prec (99.708)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0605)	Loss_split (0.0114)	train_loss  (1.5566)	Prec (99.722)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0560)	Loss_split (0.0087)	train_loss  (1.3990)	Prec (99.744)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0486)	Loss_split (0.0063)	train_loss  (1.2506)	Prec (99.789)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0451)	Loss_split (0.0068)	train_loss  (1.1298)	Prec (99.825)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.0415)	Loss_split (0.0062)	train_loss  (1.0201)	Prec (99.822)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.0383)	Loss_split (0.0060)	train_loss  (0.9164)	Prec (99.836)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.0380)	Loss_split (0.0059)	train_loss  (0.8308)	Prec (99.808)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0338)	Loss_split (0.0063)	train_loss  (0.7448)	Prec (99.831)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0363)	Loss_split (0.0056)	train_loss  (0.6919)	Prec (99.792)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0340)	Loss_split (0.0031)	train_loss  (0.6343)	Prec (99.822)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0289)	Loss_split (0.0046)	train_loss  (0.5724)	Prec (99.869)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0302)	Loss_split (0.0047)	train_loss  (0.5309)	Prec (99.842)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0284)	Loss_split (0.0039)	train_loss  (0.4923)	Prec (99.872)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0294)	Loss_split (0.0043)	train_loss  (0.4624)	Prec (99.822)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (0.0276)	Loss_split (0.0039)	train_loss  (0.4280)	Prec (99.844)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (0.0284)	Loss_split (0.0049)	train_loss  (0.3987)	Prec (99.808)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (0.0235)	Loss_split (0.0035)	train_loss  (0.3693)	Prec (99.886)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (0.0245)	Loss_split (0.0039)	train_loss  (0.3496)	Prec (99.853)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (0.0240)	Loss_split (0.0042)	train_loss  (0.3260)	Prec (99.842)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (0.0242)	Loss_split (0.0028)	train_loss  (0.3141)	Prec (99.839)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (0.0244)	Loss_split (0.0039)	train_loss  (0.3049)	Prec (99.847)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (0.0238)	Loss_split (0.0031)	train_loss  (0.2891)	Prec (99.839)
+DFL-CNN <==> Train <==> Epoch: [35/100]
+Loss_concat (0.0224)	Loss_split (0.0023)	train_loss  (0.2684)	Prec (99.847)
+DFL-CNN <==> Train <==> Epoch: [36/100]
+Loss_concat (0.0224)	Loss_split (0.0023)	train_loss  (0.2594)	Prec (99.858)
+DFL-CNN <==> Train <==> Epoch: [37/100]
+Loss_concat (0.0203)	Loss_split (0.0031)	train_loss  (0.2486)	Prec (99.872)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (2.4845)	Loss_split (0.2877)	train_loss  (9.8131)	Prec (74.937)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (0.6487)	Loss_split (0.0548)	train_loss  (4.9931)	Prec (94.783)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.3436)	Loss_split (0.0266)	train_loss  (3.4298)	Prec (97.736)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.2098)	Loss_split (0.0181)	train_loss  (2.5386)	Prec (98.931)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.1443)	Loss_split (0.0191)	train_loss  (2.0040)	Prec (99.321)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.1011)	Loss_split (0.0124)	train_loss  (1.5957)	Prec (99.701)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.0819)	Loss_split (0.0119)	train_loss  (1.3001)	Prec (99.755)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.0642)	Loss_split (0.0053)	train_loss  (1.0871)	Prec (99.855)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.0510)	Loss_split (0.0045)	train_loss  (0.9057)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.0480)	Loss_split (0.0064)	train_loss  (0.7999)	Prec (99.918)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0398)	Loss_split (0.0091)	train_loss  (0.6780)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0352)	Loss_split (0.0052)	train_loss  (0.5771)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0344)	Loss_split (0.0052)	train_loss  (0.5262)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0278)	Loss_split (0.0060)	train_loss  (0.4456)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0263)	Loss_split (0.0037)	train_loss  (0.4031)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0211)	Loss_split (0.0044)	train_loss  (0.3487)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (7.1607)	Loss_split (0.3512)	train_loss  (15.0041)	Prec (16.332)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (6.7065)	Loss_split (0.0923)	train_loss  (11.5600)	Prec (45.906)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (6.2970)	Loss_split (0.0620)	train_loss  (9.9490)	Prec (63.034)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (6.0808)	Loss_split (0.0392)	train_loss  (8.9904)	Prec (70.082)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (5.9359)	Loss_split (0.0265)	train_loss  (8.3977)	Prec (77.382)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (5.7932)	Loss_split (0.0251)	train_loss  (7.8837)	Prec (84.855)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (5.6487)	Loss_split (0.0231)	train_loss  (7.4350)	Prec (93.496)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (5.5271)	Loss_split (0.0194)	train_loss  (7.0694)	Prec (97.201)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (5.4759)	Loss_split (0.0113)	train_loss  (6.8545)	Prec (97.808)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (5.4430)	Loss_split (0.0157)	train_loss  (6.6614)	Prec (98.442)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (5.4260)	Loss_split (0.0086)	train_loss  (6.5597)	Prec (98.551)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (5.4053)	Loss_split (0.0088)	train_loss  (6.4036)	Prec (98.904)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (5.3894)	Loss_split (0.0053)	train_loss  (6.2804)	Prec (99.312)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (5.3778)	Loss_split (0.0078)	train_loss  (6.1810)	Prec (99.438)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (5.3694)	Loss_split (0.0070)	train_loss  (6.1022)	Prec (99.511)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (5.3617)	Loss_split (0.0071)	train_loss  (6.0150)	Prec (99.565)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (5.3586)	Loss_split (0.0060)	train_loss  (5.9818)	Prec (99.710)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (5.3532)	Loss_split (0.0032)	train_loss  (5.9248)	Prec (99.755)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (5.3487)	Loss_split (0.0040)	train_loss  (5.8634)	Prec (99.792)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (5.3459)	Loss_split (0.0046)	train_loss  (5.8284)	Prec (99.864)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (5.3428)	Loss_split (0.0022)	train_loss  (5.7825)	Prec (99.846)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (5.3406)	Loss_split (0.0027)	train_loss  (5.7465)	Prec (99.864)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (5.3370)	Loss_split (0.0032)	train_loss  (5.7187)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (5.3362)	Loss_split (0.0023)	train_loss  (5.6949)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (5.3364)	Loss_split (0.0022)	train_loss  (5.6842)	Prec (99.918)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (5.3347)	Loss_split (0.0013)	train_loss  (5.6564)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (5.3350)	Loss_split (0.0028)	train_loss  (5.6553)	Prec (99.882)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (5.3326)	Loss_split (0.0035)	train_loss  (5.6231)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (5.3309)	Loss_split (0.0013)	train_loss  (5.6039)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (5.3307)	Loss_split (0.0013)	train_loss  (5.5953)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (5.3290)	Loss_split (0.0010)	train_loss  (5.5739)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (5.3305)	Loss_split (0.0033)	train_loss  (5.5730)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (5.3299)	Loss_split (0.0016)	train_loss  (5.5608)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (5.3274)	Loss_split (0.0007)	train_loss  (5.5438)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [35/100]
+Loss_concat (5.3269)	Loss_split (0.0007)	train_loss  (5.5312)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [36/100]
+Loss_concat (5.3274)	Loss_split (0.0016)	train_loss  (5.5287)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [37/100]
+Loss_concat (5.3270)	Loss_split (0.0010)	train_loss  (5.5197)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [38/100]
+Loss_concat (5.3265)	Loss_split (0.0023)	train_loss  (5.5101)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [39/100]
+Loss_concat (5.3267)	Loss_split (0.0015)	train_loss  (5.5115)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [40/100]
+Loss_concat (5.3257)	Loss_split (0.0013)	train_loss  (5.4978)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [41/100]
+Loss_concat (5.3255)	Loss_split (0.0002)	train_loss  (5.4979)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [42/100]
+Loss_concat (5.3242)	Loss_split (0.0003)	train_loss  (5.4848)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [43/100]
+Loss_concat (5.3239)	Loss_split (0.0004)	train_loss  (5.4788)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [44/100]
+Loss_concat (5.3243)	Loss_split (0.0006)	train_loss  (5.4783)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [45/100]
+Loss_concat (5.3250)	Loss_split (0.0007)	train_loss  (5.4767)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [46/100]
+Loss_concat (5.3247)	Loss_split (0.0001)	train_loss  (5.4802)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [47/100]
+Loss_concat (5.3233)	Loss_split (0.0007)	train_loss  (5.4662)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [48/100]
+Loss_concat (5.3231)	Loss_split (0.0004)	train_loss  (5.4591)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [49/100]
+Loss_concat (5.3237)	Loss_split (0.0005)	train_loss  (5.4596)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [50/100]
+Loss_concat (5.3232)	Loss_split (0.0004)	train_loss  (5.4611)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [51/100]
+Loss_concat (5.3221)	Loss_split (0.0005)	train_loss  (5.4475)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [52/100]
+Loss_concat (5.3234)	Loss_split (0.0009)	train_loss  (5.4541)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [53/100]
+Loss_concat (5.3227)	Loss_split (0.0010)	train_loss  (5.4488)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [54/100]
+Loss_concat (5.3220)	Loss_split (0.0010)	train_loss  (5.4458)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [55/100]
+Loss_concat (5.3215)	Loss_split (0.0006)	train_loss  (5.4439)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [56/100]
+Loss_concat (5.3226)	Loss_split (0.0005)	train_loss  (5.4420)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [57/100]
+Loss_concat (5.3214)	Loss_split (0.0001)	train_loss  (5.4381)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [58/100]
+Loss_concat (5.3216)	Loss_split (0.0005)	train_loss  (5.4357)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [59/100]
+Loss_concat (5.3220)	Loss_split (0.0000)	train_loss  (5.4371)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [60/100]
+Loss_concat (5.3218)	Loss_split (0.0004)	train_loss  (5.4376)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [61/100]
+Loss_concat (5.3215)	Loss_split (0.0000)	train_loss  (5.4318)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (7.1643)	Loss_split (0.3408)	train_loss  (14.6683)	Prec (16.168)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (6.6620)	Loss_split (0.0815)	train_loss  (11.1729)	Prec (53.089)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (6.1939)	Loss_split (0.0494)	train_loss  (9.4200)	Prec (71.549)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (5.9179)	Loss_split (0.0345)	train_loss  (8.3665)	Prec (82.708)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (5.7565)	Loss_split (0.0235)	train_loss  (7.6690)	Prec (86.884)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (5.6393)	Loss_split (0.0224)	train_loss  (7.1822)	Prec (92.799)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (5.5345)	Loss_split (0.0169)	train_loss  (6.8055)	Prec (96.431)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (5.4724)	Loss_split (0.0124)	train_loss  (6.5408)	Prec (98.116)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (5.4338)	Loss_split (0.0086)	train_loss  (6.3242)	Prec (98.786)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (5.4067)	Loss_split (0.0114)	train_loss  (6.1679)	Prec (99.130)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (5.3899)	Loss_split (0.0110)	train_loss  (6.0424)	Prec (99.393)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (5.3783)	Loss_split (0.0084)	train_loss  (5.9306)	Prec (99.556)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (5.3695)	Loss_split (0.0067)	train_loss  (5.8630)	Prec (99.620)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (5.3599)	Loss_split (0.0043)	train_loss  (5.7748)	Prec (99.728)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (5.3544)	Loss_split (0.0042)	train_loss  (5.7331)	Prec (99.855)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (5.3493)	Loss_split (0.0057)	train_loss  (5.6858)	Prec (99.864)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (5.3473)	Loss_split (0.0043)	train_loss  (5.6569)	Prec (99.855)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (5.3444)	Loss_split (0.0048)	train_loss  (5.6251)	Prec (99.891)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (5.3415)	Loss_split (0.0034)	train_loss  (5.5966)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (5.3377)	Loss_split (0.0026)	train_loss  (5.5693)	Prec (99.928)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (5.3382)	Loss_split (0.0023)	train_loss  (5.5527)	Prec (99.900)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (5.3339)	Loss_split (0.0009)	train_loss  (5.5274)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (5.3322)	Loss_split (0.0021)	train_loss  (5.5095)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (5.3311)	Loss_split (0.0028)	train_loss  (5.4968)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (5.3308)	Loss_split (0.0025)	train_loss  (5.4892)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (5.3305)	Loss_split (0.0006)	train_loss  (5.4846)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (5.3288)	Loss_split (0.0015)	train_loss  (5.4725)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (5.3266)	Loss_split (0.0024)	train_loss  (5.4512)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (5.3278)	Loss_split (0.0033)	train_loss  (5.4551)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (5.3281)	Loss_split (0.0030)	train_loss  (5.4526)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (5.3263)	Loss_split (0.0037)	train_loss  (5.4391)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (5.3251)	Loss_split (0.0011)	train_loss  (5.4355)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (5.3258)	Loss_split (0.0009)	train_loss  (5.4354)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (5.3249)	Loss_split (0.0003)	train_loss  (5.4240)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [35/100]
+Loss_concat (5.3244)	Loss_split (0.0020)	train_loss  (5.4242)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (6.7496)	Loss_split (0.2200)	train_loss  (12.6881)	Prec (41.175)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (5.9345)	Loss_split (0.0529)	train_loss  (8.7076)	Prec (78.742)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (5.6243)	Loss_split (0.0274)	train_loss  (7.1874)	Prec (91.242)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (5.4371)	Loss_split (0.0172)	train_loss  (6.3669)	Prec (98.725)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (5.3755)	Loss_split (0.0131)	train_loss  (5.9695)	Prec (99.561)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (5.3526)	Loss_split (0.0085)	train_loss  (5.7543)	Prec (99.786)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (5.3422)	Loss_split (0.0062)	train_loss  (5.6350)	Prec (99.836)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (5.3359)	Loss_split (0.0043)	train_loss  (5.5574)	Prec (99.878)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (5.3315)	Loss_split (0.0038)	train_loss  (5.5086)	Prec (99.886)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (5.3287)	Loss_split (0.0036)	train_loss  (5.4742)	Prec (99.892)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (5.3274)	Loss_split (0.0021)	train_loss  (5.4551)	Prec (99.872)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (5.3264)	Loss_split (0.0033)	train_loss  (5.4395)	Prec (99.869)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (5.3243)	Loss_split (0.0029)	train_loss  (5.4233)	Prec (99.914)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (5.3243)	Loss_split (0.0014)	train_loss  (5.4142)	Prec (99.869)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (5.3231)	Loss_split (0.0025)	train_loss  (5.4052)	Prec (99.889)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (5.3230)	Loss_split (0.0015)	train_loss  (5.3972)	Prec (99.894)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (5.3226)	Loss_split (0.0014)	train_loss  (5.3915)	Prec (99.878)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (5.3222)	Loss_split (0.0014)	train_loss  (5.3862)	Prec (99.875)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (5.3211)	Loss_split (0.0018)	train_loss  (5.3821)	Prec (99.922)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (5.3210)	Loss_split (0.0014)	train_loss  (5.3765)	Prec (99.914)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (5.3209)	Loss_split (0.0008)	train_loss  (5.3750)	Prec (99.922)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (5.3209)	Loss_split (0.0012)	train_loss  (5.3744)	Prec (99.894)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (5.3202)	Loss_split (0.0006)	train_loss  (5.3691)	Prec (99.914)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (5.3205)	Loss_split (0.0003)	train_loss  (5.3677)	Prec (99.875)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (6.7579)	Loss_split (0.2225)	train_loss  (12.9258)	Prec (40.094)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (5.9873)	Loss_split (0.0555)	train_loss  (9.3155)	Prec (75.269)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (5.7001)	Loss_split (0.0275)	train_loss  (7.9902)	Prec (87.147)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (5.5483)	Loss_split (0.0185)	train_loss  (7.1914)	Prec (92.711)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (5.4517)	Loss_split (0.0129)	train_loss  (6.6666)	Prec (96.403)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (5.3938)	Loss_split (0.0092)	train_loss  (6.3007)	Prec (98.744)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (5.3593)	Loss_split (0.0071)	train_loss  (6.0520)	Prec (99.675)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (5.3445)	Loss_split (0.0046)	train_loss  (5.8843)	Prec (99.806)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (5.3391)	Loss_split (0.0039)	train_loss  (5.7769)	Prec (99.836)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (5.3348)	Loss_split (0.0031)	train_loss  (5.6897)	Prec (99.867)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (5.3306)	Loss_split (0.0042)	train_loss  (5.6226)	Prec (99.861)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (5.3302)	Loss_split (0.0014)	train_loss  (5.5896)	Prec (99.872)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (5.3284)	Loss_split (0.0019)	train_loss  (5.5512)	Prec (99.833)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (5.3260)	Loss_split (0.0016)	train_loss  (5.5181)	Prec (99.894)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (5.3251)	Loss_split (0.0019)	train_loss  (5.4996)	Prec (99.897)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (5.3248)	Loss_split (0.0011)	train_loss  (5.4852)	Prec (99.883)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (5.3229)	Loss_split (0.0006)	train_loss  (5.4638)	Prec (99.939)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (5.3233)	Loss_split (0.0020)	train_loss  (5.4552)	Prec (99.878)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (5.3231)	Loss_split (0.0009)	train_loss  (5.4461)	Prec (99.878)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (5.3228)	Loss_split (0.0010)	train_loss  (5.4407)	Prec (99.881)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (5.3226)	Loss_split (0.0006)	train_loss  (5.4301)	Prec (99.869)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (5.3222)	Loss_split (0.0007)	train_loss  (5.4255)	Prec (99.869)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (5.3219)	Loss_split (0.0012)	train_loss  (5.4179)	Prec (99.875)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (5.3213)	Loss_split (0.0005)	train_loss  (5.4135)	Prec (99.900)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (5.3210)	Loss_split (0.0006)	train_loss  (5.4075)	Prec (99.892)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (5.3215)	Loss_split (0.0006)	train_loss  (5.4055)	Prec (99.861)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (5.3211)	Loss_split (0.0006)	train_loss  (5.4043)	Prec (99.892)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (5.3207)	Loss_split (0.0006)	train_loss  (5.3956)	Prec (99.892)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (5.3206)	Loss_split (0.0008)	train_loss  (5.3944)	Prec (99.886)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (5.3199)	Loss_split (0.0006)	train_loss  (5.3881)	Prec (99.911)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.5715)	Loss_split (0.3008)	train_loss  (21.0141)	Prec (2.736)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (9.5404)	Loss_split (0.1038)	train_loss  (17.8177)	Prec (9.325)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (9.4516)	Loss_split (0.0733)	train_loss  (16.2223)	Prec (13.267)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (9.3299)	Loss_split (0.0592)	train_loss  (15.1385)	Prec (19.075)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (9.2076)	Loss_split (0.0550)	train_loss  (14.3088)	Prec (26.314)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (9.0675)	Loss_split (0.0417)	train_loss  (13.5919)	Prec (31.897)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (8.9968)	Loss_split (0.0359)	train_loss  (13.0765)	Prec (34.228)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (8.9214)	Loss_split (0.0345)	train_loss  (12.6203)	Prec (37.675)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (8.8692)	Loss_split (0.0288)	train_loss  (12.2437)	Prec (40.483)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (8.8019)	Loss_split (0.0270)	train_loss  (11.8905)	Prec (43.925)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.5743)	Loss_split (0.4842)	train_loss  (22.6362)	Prec (1.114)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.5743)	Loss_split (0.4024)	train_loss  (22.1619)	Prec (1.050)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (9.5706)	Loss_split (0.1326)	train_loss  (19.4927)	Prec (3.378)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (9.5598)	Loss_split (0.0859)	train_loss  (17.9515)	Prec (9.314)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (9.5126)	Loss_split (0.0705)	train_loss  (16.8958)	Prec (13.753)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (9.4506)	Loss_split (0.0595)	train_loss  (16.0783)	Prec (16.603)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (9.3606)	Loss_split (0.0533)	train_loss  (15.3721)	Prec (18.950)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (9.2807)	Loss_split (0.0459)	train_loss  (14.7964)	Prec (22.514)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (9.1918)	Loss_split (0.0418)	train_loss  (14.3042)	Prec (25.372)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (9.1399)	Loss_split (0.0405)	train_loss  (13.8631)	Prec (27.725)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (9.0798)	Loss_split (0.0354)	train_loss  (13.4892)	Prec (31.664)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.4432)	Loss_split (0.1959)	train_loss  (17.5240)	Prec (14.514)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (8.9649)	Loss_split (0.0468)	train_loss  (13.4390)	Prec (36.406)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (8.7062)	Loss_split (0.0325)	train_loss  (11.9978)	Prec (47.967)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (8.5573)	Loss_split (0.0247)	train_loss  (11.1471)	Prec (54.686)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (8.4466)	Loss_split (0.0202)	train_loss  (10.5613)	Prec (60.325)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (8.2731)	Loss_split (0.0163)	train_loss  (10.0382)	Prec (69.269)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (8.2072)	Loss_split (0.0126)	train_loss  (9.7199)	Prec (71.678)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (8.1576)	Loss_split (0.0130)	train_loss  (9.4810)	Prec (74.233)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (8.0894)	Loss_split (0.0105)	train_loss  (9.2584)	Prec (77.667)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (8.0402)	Loss_split (0.0097)	train_loss  (9.0831)	Prec (79.936)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (7.9787)	Loss_split (0.0073)	train_loss  (8.9439)	Prec (83.408)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (7.9293)	Loss_split (0.0108)	train_loss  (8.7703)	Prec (85.428)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (7.9225)	Loss_split (0.0094)	train_loss  (8.7179)	Prec (85.469)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (7.9114)	Loss_split (0.0075)	train_loss  (8.6666)	Prec (86.056)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (7.8862)	Loss_split (0.0077)	train_loss  (8.5912)	Prec (87.325)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.3595)	Loss_split (0.1758)	train_loss  (16.8030)	Prec (15.781)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (8.9818)	Loss_split (0.0495)	train_loss  (13.3813)	Prec (33.672)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.3361)	Loss_split (0.1744)	train_loss  (16.6648)	Prec (17.089)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (8.9414)	Loss_split (0.0526)	train_loss  (13.3253)	Prec (35.869)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.5633)	Loss_split (1.2246)	train_loss  (23.8578)	Prec (1.817)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (9.5366)	Loss_split (0.7868)	train_loss  (22.5801)	Prec (3.236)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.2793)	Loss_split (0.1678)	train_loss  (16.5151)	Prec (18.686)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (8.9925)	Loss_split (0.0839)	train_loss  (13.9719)	Prec (32.344)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (9.5614)	Loss_split (0.2495)	train_loss  (19.6624)	Prec (5.739)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (9.4260)	Loss_split (0.0770)	train_loss  (15.9800)	Prec (15.478)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (9.1826)	Loss_split (0.0575)	train_loss  (14.3375)	Prec (25.256)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (4.3100)	Loss_split (0.2379)	train_loss  (15.3243)	Prec (57.544)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (1.5104)	Loss_split (0.0634)	train_loss  (9.2136)	Prec (84.167)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.8554)	Loss_split (0.0356)	train_loss  (6.9335)	Prec (91.156)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.5260)	Loss_split (0.0278)	train_loss  (5.5179)	Prec (95.342)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.3498)	Loss_split (0.0231)	train_loss  (4.5697)	Prec (97.300)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.2366)	Loss_split (0.0173)	train_loss  (3.8545)	Prec (98.544)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.1796)	Loss_split (0.0186)	train_loss  (3.3247)	Prec (98.978)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.1275)	Loss_split (0.0150)	train_loss  (2.8578)	Prec (99.467)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.1065)	Loss_split (0.0114)	train_loss  (2.5006)	Prec (99.469)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.0875)	Loss_split (0.0089)	train_loss  (2.2239)	Prec (99.667)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0741)	Loss_split (0.0101)	train_loss  (1.9558)	Prec (99.717)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0657)	Loss_split (0.0090)	train_loss  (1.7611)	Prec (99.750)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0608)	Loss_split (0.0077)	train_loss  (1.5862)	Prec (99.742)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0551)	Loss_split (0.0085)	train_loss  (1.4210)	Prec (99.747)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0480)	Loss_split (0.0065)	train_loss  (1.2598)	Prec (99.783)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0447)	Loss_split (0.0059)	train_loss  (1.1255)	Prec (99.792)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.0405)	Loss_split (0.0057)	train_loss  (1.0175)	Prec (99.831)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.0359)	Loss_split (0.0065)	train_loss  (0.9187)	Prec (99.856)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.0365)	Loss_split (0.0047)	train_loss  (0.8325)	Prec (99.856)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0363)	Loss_split (0.0043)	train_loss  (0.7652)	Prec (99.817)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0358)	Loss_split (0.0041)	train_loss  (0.6969)	Prec (99.806)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0294)	Loss_split (0.0044)	train_loss  (0.6248)	Prec (99.881)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0270)	Loss_split (0.0040)	train_loss  (0.5657)	Prec (99.906)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0297)	Loss_split (0.0041)	train_loss  (0.5293)	Prec (99.839)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0308)	Loss_split (0.0035)	train_loss  (0.4919)	Prec (99.808)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0259)	Loss_split (0.0039)	train_loss  (0.4533)	Prec (99.889)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (0.0254)	Loss_split (0.0038)	train_loss  (0.4221)	Prec (99.878)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (0.0273)	Loss_split (0.0032)	train_loss  (0.4083)	Prec (99.847)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (4.4239)	Loss_split (0.2319)	train_loss  (15.6139)	Prec (56.414)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (1.6502)	Loss_split (0.0678)	train_loss  (9.6947)	Prec (82.242)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.9634)	Loss_split (0.0469)	train_loss  (7.5575)	Prec (89.900)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.6010)	Loss_split (0.0323)	train_loss  (6.2438)	Prec (94.494)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.4001)	Loss_split (0.0255)	train_loss  (5.3777)	Prec (96.717)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.2799)	Loss_split (0.0203)	train_loss  (4.6807)	Prec (98.061)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.2122)	Loss_split (0.0135)	train_loss  (4.1904)	Prec (98.722)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.1658)	Loss_split (0.0137)	train_loss  (3.7555)	Prec (99.039)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.1352)	Loss_split (0.0147)	train_loss  (3.4070)	Prec (99.289)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.1145)	Loss_split (0.0135)	train_loss  (3.1022)	Prec (99.406)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0992)	Loss_split (0.0120)	train_loss  (2.8596)	Prec (99.500)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0864)	Loss_split (0.0094)	train_loss  (2.6248)	Prec (99.600)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0760)	Loss_split (0.0096)	train_loss  (2.4230)	Prec (99.628)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0670)	Loss_split (0.0083)	train_loss  (2.2441)	Prec (99.692)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0657)	Loss_split (0.0082)	train_loss  (2.1065)	Prec (99.703)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0558)	Loss_split (0.0073)	train_loss  (1.9391)	Prec (99.775)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.0547)	Loss_split (0.0067)	train_loss  (1.7900)	Prec (99.739)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.0520)	Loss_split (0.0061)	train_loss  (1.6948)	Prec (99.742)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.0503)	Loss_split (0.0052)	train_loss  (1.5779)	Prec (99.728)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0463)	Loss_split (0.0052)	train_loss  (1.4631)	Prec (99.775)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0436)	Loss_split (0.0056)	train_loss  (1.3762)	Prec (99.764)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0414)	Loss_split (0.0048)	train_loss  (1.2967)	Prec (99.772)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0391)	Loss_split (0.0048)	train_loss  (1.2109)	Prec (99.761)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0376)	Loss_split (0.0056)	train_loss  (1.1483)	Prec (99.825)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0355)	Loss_split (0.0047)	train_loss  (1.0823)	Prec (99.781)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0348)	Loss_split (0.0043)	train_loss  (1.0179)	Prec (99.831)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (2.5122)	Loss_split (0.2601)	train_loss  (10.1226)	Prec (74.583)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (0.6826)	Loss_split (0.0578)	train_loss  (5.3300)	Prec (94.094)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.3712)	Loss_split (0.0316)	train_loss  (3.8735)	Prec (97.029)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.2315)	Loss_split (0.0191)	train_loss  (3.0258)	Prec (98.478)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.1639)	Loss_split (0.0181)	train_loss  (2.5025)	Prec (99.139)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.1248)	Loss_split (0.0132)	train_loss  (2.1258)	Prec (99.357)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.0935)	Loss_split (0.0108)	train_loss  (1.8447)	Prec (99.629)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.0817)	Loss_split (0.0120)	train_loss  (1.6255)	Prec (99.701)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.0645)	Loss_split (0.0083)	train_loss  (1.4072)	Prec (99.764)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.0551)	Loss_split (0.0111)	train_loss  (1.2662)	Prec (99.846)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0464)	Loss_split (0.0049)	train_loss  (1.1286)	Prec (99.909)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0436)	Loss_split (0.0045)	train_loss  (1.0408)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0396)	Loss_split (0.0043)	train_loss  (0.9149)	Prec (99.882)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0339)	Loss_split (0.0058)	train_loss  (0.8392)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0314)	Loss_split (0.0021)	train_loss  (0.7588)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0267)	Loss_split (0.0024)	train_loss  (0.6877)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.0276)	Loss_split (0.0041)	train_loss  (0.6471)	Prec (99.946)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.0255)	Loss_split (0.0033)	train_loss  (0.5916)	Prec (99.937)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.0220)	Loss_split (0.0038)	train_loss  (0.5445)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0214)	Loss_split (0.0028)	train_loss  (0.5138)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0204)	Loss_split (0.0046)	train_loss  (0.4665)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0183)	Loss_split (0.0017)	train_loss  (0.4530)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0174)	Loss_split (0.0032)	train_loss  (0.4072)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0179)	Loss_split (0.0023)	train_loss  (0.3931)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0168)	Loss_split (0.0013)	train_loss  (0.3678)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0149)	Loss_split (0.0005)	train_loss  (0.3389)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (0.0155)	Loss_split (0.0004)	train_loss  (0.3260)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (0.0161)	Loss_split (0.0016)	train_loss  (0.3183)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (0.0153)	Loss_split (0.0015)	train_loss  (0.2940)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (0.0127)	Loss_split (0.0007)	train_loss  (0.2749)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (0.0131)	Loss_split (0.0017)	train_loss  (0.2694)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (0.0118)	Loss_split (0.0008)	train_loss  (0.2530)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (0.0129)	Loss_split (0.0011)	train_loss  (0.2430)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (0.0117)	Loss_split (0.0027)	train_loss  (0.2292)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (2.4962)	Loss_split (0.2634)	train_loss  (9.8184)	Prec (74.837)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (0.6496)	Loss_split (0.0518)	train_loss  (4.9395)	Prec (95.136)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.3493)	Loss_split (0.0256)	train_loss  (3.4043)	Prec (97.627)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.2138)	Loss_split (0.0274)	train_loss  (2.5089)	Prec (98.841)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.1386)	Loss_split (0.0160)	train_loss  (1.9407)	Prec (99.447)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.1094)	Loss_split (0.0159)	train_loss  (1.5912)	Prec (99.638)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.0867)	Loss_split (0.0072)	train_loss  (1.3247)	Prec (99.774)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.0678)	Loss_split (0.0124)	train_loss  (1.0812)	Prec (99.837)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.0551)	Loss_split (0.0072)	train_loss  (0.9042)	Prec (99.891)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.0463)	Loss_split (0.0060)	train_loss  (0.7745)	Prec (99.918)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.0383)	Loss_split (0.0043)	train_loss  (0.6648)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.0347)	Loss_split (0.0084)	train_loss  (0.5664)	Prec (99.955)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.0305)	Loss_split (0.0037)	train_loss  (0.4967)	Prec (99.964)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.0260)	Loss_split (0.0052)	train_loss  (0.4454)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.0237)	Loss_split (0.0037)	train_loss  (0.3870)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.0219)	Loss_split (0.0028)	train_loss  (0.3524)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.0224)	Loss_split (0.0037)	train_loss  (0.3249)	Prec (99.973)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.0189)	Loss_split (0.0016)	train_loss  (0.2891)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.0175)	Loss_split (0.0024)	train_loss  (0.2549)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.0178)	Loss_split (0.0028)	train_loss  (0.2412)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.0170)	Loss_split (0.0025)	train_loss  (0.2260)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.0154)	Loss_split (0.0022)	train_loss  (0.2083)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.0141)	Loss_split (0.0020)	train_loss  (0.1902)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.0133)	Loss_split (0.0026)	train_loss  (0.1777)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.0135)	Loss_split (0.0024)	train_loss  (0.1686)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.0129)	Loss_split (0.0003)	train_loss  (0.1628)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (0.0128)	Loss_split (0.0024)	train_loss  (0.1521)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (0.0125)	Loss_split (0.0017)	train_loss  (0.1438)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (0.0121)	Loss_split (0.0009)	train_loss  (0.1399)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (0.0111)	Loss_split (0.0015)	train_loss  (0.1292)	Prec (99.982)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (0.0109)	Loss_split (0.0017)	train_loss  (0.1256)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (0.0106)	Loss_split (0.0006)	train_loss  (0.1217)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (0.0099)	Loss_split (0.0011)	train_loss  (0.1143)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (0.0101)	Loss_split (0.0026)	train_loss  (0.1115)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [35/100]
+Loss_concat (0.0096)	Loss_split (0.0006)	train_loss  (0.1095)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [36/100]
+Loss_concat (0.0090)	Loss_split (0.0009)	train_loss  (0.1044)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [37/100]
+Loss_concat (0.0091)	Loss_split (0.0010)	train_loss  (0.0998)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [38/100]
+Loss_concat (0.0088)	Loss_split (0.0013)	train_loss  (0.0943)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [39/100]
+Loss_concat (0.0083)	Loss_split (0.0000)	train_loss  (0.0934)	Prec (99.991)
+DFL-CNN <==> Train <==> Epoch: [40/100]
+Loss_concat (0.0095)	Loss_split (0.0005)	train_loss  (0.0974)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [41/100]
+Loss_concat (0.0086)	Loss_split (0.0008)	train_loss  (0.0919)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [42/100]
+Loss_concat (0.0083)	Loss_split (0.0002)	train_loss  (0.0880)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [43/100]
+Loss_concat (0.0084)	Loss_split (0.0007)	train_loss  (0.0884)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [44/100]
+Loss_concat (0.0078)	Loss_split (0.0004)	train_loss  (0.0816)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [45/100]
+Loss_concat (0.0080)	Loss_split (0.0018)	train_loss  (0.0830)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [46/100]
+Loss_concat (0.0080)	Loss_split (0.0022)	train_loss  (0.0836)	Prec (100.000)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (2.1702)	Loss_split (0.1097)	train_loss  (9.8065)	Prec (75.472)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (0.6242)	Loss_split (0.0285)	train_loss  (4.6305)	Prec (92.082)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (0.3466)	Loss_split (0.0191)	train_loss  (3.2385)	Prec (95.758)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (0.2374)	Loss_split (0.0155)	train_loss  (2.5048)	Prec (97.089)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (0.1805)	Loss_split (0.0125)	train_loss  (2.0317)	Prec (97.806)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (0.1473)	Loss_split (0.0115)	train_loss  (1.6874)	Prec (98.185)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.1270)	Loss_split (0.0100)	train_loss  (1.4276)	Prec (98.392)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.1108)	Loss_split (0.0084)	train_loss  (1.2298)	Prec (98.625)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (5.9528)	Loss_split (0.2861)	train_loss  (18.4806)	Prec (44.514)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (2.9429)	Loss_split (0.0844)	train_loss  (12.8776)	Prec (71.485)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (2.0231)	Loss_split (0.0591)	train_loss  (10.5087)	Prec (77.877)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (1.5641)	Loss_split (0.0460)	train_loss  (9.0471)	Prec (81.944)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (1.2910)	Loss_split (0.0435)	train_loss  (8.0434)	Prec (84.773)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (1.0905)	Loss_split (0.0362)	train_loss  (7.2549)	Prec (87.009)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (0.9352)	Loss_split (0.0310)	train_loss  (6.6010)	Prec (88.758)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.8133)	Loss_split (0.0305)	train_loss  (6.0847)	Prec (90.341)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.7174)	Loss_split (0.0291)	train_loss  (5.6442)	Prec (91.530)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.6210)	Loss_split (0.0232)	train_loss  (5.2336)	Prec (92.839)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.5594)	Loss_split (0.0233)	train_loss  (4.9108)	Prec (93.636)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.4979)	Loss_split (0.0236)	train_loss  (4.6053)	Prec (94.505)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.4503)	Loss_split (0.0199)	train_loss  (4.3573)	Prec (95.108)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.4078)	Loss_split (0.0189)	train_loss  (4.1258)	Prec (95.581)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.3807)	Loss_split (0.0181)	train_loss  (3.9325)	Prec (95.844)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.3411)	Loss_split (0.0176)	train_loss  (3.7247)	Prec (96.400)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.3145)	Loss_split (0.0169)	train_loss  (3.5499)	Prec (96.705)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.2968)	Loss_split (0.0165)	train_loss  (3.4177)	Prec (96.836)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.2765)	Loss_split (0.0156)	train_loss  (3.2687)	Prec (97.121)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.2630)	Loss_split (0.0151)	train_loss  (3.1431)	Prec (97.219)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (6.0278)	Loss_split (0.2846)	train_loss  (18.8031)	Prec (43.674)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (3.0765)	Loss_split (0.0940)	train_loss  (13.3404)	Prec (68.801)
+DFL-CNN <==> Train <==> Epoch: [1/100]
+Loss_concat (6.0409)	Loss_split (0.2846)	train_loss  (18.7905)	Prec (43.213)
+DFL-CNN <==> Train <==> Epoch: [2/100]
+Loss_concat (3.0687)	Loss_split (0.0914)	train_loss  (13.3222)	Prec (69.038)
+DFL-CNN <==> Train <==> Epoch: [3/100]
+Loss_concat (2.1812)	Loss_split (0.0699)	train_loss  (11.0577)	Prec (75.385)
+DFL-CNN <==> Train <==> Epoch: [4/100]
+Loss_concat (1.7411)	Loss_split (0.0596)	train_loss  (9.6788)	Prec (79.287)
+DFL-CNN <==> Train <==> Epoch: [5/100]
+Loss_concat (1.4559)	Loss_split (0.0505)	train_loss  (8.7021)	Prec (82.176)
+DFL-CNN <==> Train <==> Epoch: [6/100]
+Loss_concat (1.2420)	Loss_split (0.0426)	train_loss  (7.9397)	Prec (84.645)
+DFL-CNN <==> Train <==> Epoch: [7/100]
+Loss_concat (1.0796)	Loss_split (0.0402)	train_loss  (7.3231)	Prec (86.720)
+DFL-CNN <==> Train <==> Epoch: [8/100]
+Loss_concat (0.9423)	Loss_split (0.0362)	train_loss  (6.8164)	Prec (88.512)
+DFL-CNN <==> Train <==> Epoch: [9/100]
+Loss_concat (0.8366)	Loss_split (0.0314)	train_loss  (6.3915)	Prec (89.961)
+DFL-CNN <==> Train <==> Epoch: [10/100]
+Loss_concat (0.7479)	Loss_split (0.0317)	train_loss  (6.0303)	Prec (91.015)
+DFL-CNN <==> Train <==> Epoch: [11/100]
+Loss_concat (0.6630)	Loss_split (0.0293)	train_loss  (5.6907)	Prec (92.249)
+DFL-CNN <==> Train <==> Epoch: [12/100]
+Loss_concat (0.6035)	Loss_split (0.0273)	train_loss  (5.4270)	Prec (93.035)
+DFL-CNN <==> Train <==> Epoch: [13/100]
+Loss_concat (0.5454)	Loss_split (0.0261)	train_loss  (5.1564)	Prec (93.849)
+DFL-CNN <==> Train <==> Epoch: [14/100]
+Loss_concat (0.5024)	Loss_split (0.0249)	train_loss  (4.9376)	Prec (94.312)
+DFL-CNN <==> Train <==> Epoch: [15/100]
+Loss_concat (0.4583)	Loss_split (0.0222)	train_loss  (4.7308)	Prec (94.894)
+DFL-CNN <==> Train <==> Epoch: [16/100]
+Loss_concat (0.4314)	Loss_split (0.0211)	train_loss  (4.5717)	Prec (95.208)
+DFL-CNN <==> Train <==> Epoch: [17/100]
+Loss_concat (0.3999)	Loss_split (0.0212)	train_loss  (4.4040)	Prec (95.613)
+DFL-CNN <==> Train <==> Epoch: [18/100]
+Loss_concat (0.3689)	Loss_split (0.0213)	train_loss  (4.2255)	Prec (95.924)
+DFL-CNN <==> Train <==> Epoch: [19/100]
+Loss_concat (0.3455)	Loss_split (0.0196)	train_loss  (4.0964)	Prec (96.176)
+DFL-CNN <==> Train <==> Epoch: [20/100]
+Loss_concat (0.3280)	Loss_split (0.0186)	train_loss  (3.9596)	Prec (96.398)
+DFL-CNN <==> Train <==> Epoch: [21/100]
+Loss_concat (0.3076)	Loss_split (0.0173)	train_loss  (3.8571)	Prec (96.650)
+DFL-CNN <==> Train <==> Epoch: [22/100]
+Loss_concat (0.2939)	Loss_split (0.0189)	train_loss  (3.7372)	Prec (96.728)
+DFL-CNN <==> Train <==> Epoch: [23/100]
+Loss_concat (0.2734)	Loss_split (0.0176)	train_loss  (3.6270)	Prec (97.018)
+DFL-CNN <==> Train <==> Epoch: [24/100]
+Loss_concat (0.2634)	Loss_split (0.0168)	train_loss  (3.5251)	Prec (97.093)
+DFL-CNN <==> Train <==> Epoch: [25/100]
+Loss_concat (0.2530)	Loss_split (0.0165)	train_loss  (3.4471)	Prec (97.214)
+DFL-CNN <==> Train <==> Epoch: [26/100]
+Loss_concat (0.2447)	Loss_split (0.0160)	train_loss  (3.3674)	Prec (97.294)
+DFL-CNN <==> Train <==> Epoch: [27/100]
+Loss_concat (0.2315)	Loss_split (0.0163)	train_loss  (3.2846)	Prec (97.467)
+DFL-CNN <==> Train <==> Epoch: [28/100]
+Loss_concat (0.2230)	Loss_split (0.0146)	train_loss  (3.2105)	Prec (97.528)
+DFL-CNN <==> Train <==> Epoch: [29/100]
+Loss_concat (0.2176)	Loss_split (0.0139)	train_loss  (3.1444)	Prec (97.534)
+DFL-CNN <==> Train <==> Epoch: [30/100]
+Loss_concat (0.2079)	Loss_split (0.0136)	train_loss  (3.0723)	Prec (97.688)
+DFL-CNN <==> Train <==> Epoch: [31/100]
+Loss_concat (0.2002)	Loss_split (0.0135)	train_loss  (3.0035)	Prec (97.758)
+DFL-CNN <==> Train <==> Epoch: [32/100]
+Loss_concat (0.1949)	Loss_split (0.0146)	train_loss  (2.9500)	Prec (97.810)
+DFL-CNN <==> Train <==> Epoch: [33/100]
+Loss_concat (0.1868)	Loss_split (0.0132)	train_loss  (2.8815)	Prec (97.919)
+DFL-CNN <==> Train <==> Epoch: [34/100]
+Loss_concat (0.1828)	Loss_split (0.0119)	train_loss  (2.8389)	Prec (97.975)
+DFL-CNN <==> Train <==> Epoch: [35/100]
+Loss_concat (0.1775)	Loss_split (0.0121)	train_loss  (2.7783)	Prec (98.025)
+DFL-CNN <==> Train <==> Epoch: [36/100]
+Loss_concat (0.1767)	Loss_split (0.0124)	train_loss  (2.7530)	Prec (97.984)
+DFL-CNN <==> Train <==> Epoch: [37/100]
+Loss_concat (0.1692)	Loss_split (0.0125)	train_loss  (2.6855)	Prec (98.082)
+DFL-CNN <==> Train <==> Epoch: [38/100]
+Loss_concat (0.1639)	Loss_split (0.0122)	train_loss  (2.6384)	Prec (98.164)
+DFL-CNN <==> Train <==> Epoch: [39/100]
+Loss_concat (0.1617)	Loss_split (0.0113)	train_loss  (2.6085)	Prec (98.164)
+DFL-CNN <==> Train <==> Epoch: [40/100]
+Loss_concat (0.1541)	Loss_split (0.0123)	train_loss  (2.5573)	Prec (98.251)
+DFL-CNN <==> Train <==> Epoch: [41/100]
+Loss_concat (0.1544)	Loss_split (0.0112)	train_loss  (2.5219)	Prec (98.228)
+DFL-CNN <==> Train <==> Epoch: [42/100]
+Loss_concat (0.1524)	Loss_split (0.0112)	train_loss  (2.4920)	Prec (98.258)
+DFL-CNN <==> Train <==> Epoch: [43/100]
+Loss_concat (0.1488)	Loss_split (0.0109)	train_loss  (2.4479)	Prec (98.306)
+DFL-CNN <==> Train <==> Epoch: [44/100]
+Loss_concat (0.1463)	Loss_split (0.0111)	train_loss  (2.4249)	Prec (98.325)
+DFL-CNN <==> Train <==> Epoch: [45/100]
+Loss_concat (0.1401)	Loss_split (0.0108)	train_loss  (2.3851)	Prec (98.388)
+DFL-CNN <==> Train <==> Epoch: [46/100]
+Loss_concat (0.1383)	Loss_split (0.0106)	train_loss  (2.3515)	Prec (98.442)
+DFL-CNN <==> Train <==> Epoch: [47/100]
+Loss_concat (0.1343)	Loss_split (0.0106)	train_loss  (2.3152)	Prec (98.473)
+DFL-CNN <==> Train <==> Epoch: [48/100]
+Loss_concat (0.1346)	Loss_split (0.0112)	train_loss  (2.2917)	Prec (98.463)
+DFL-CNN <==> Train <==> Epoch: [49/100]
+Loss_concat (0.1328)	Loss_split (0.0108)	train_loss  (2.2643)	Prec (98.444)
+DFL-CNN <==> Train <==> Epoch: [50/100]
+Loss_concat (0.1286)	Loss_split (0.0089)	train_loss  (2.2344)	Prec (98.494)
+DFL-CNN <==> Train <==> Epoch: [51/100]
+Loss_concat (0.1299)	Loss_split (0.0102)	train_loss  (2.2122)	Prec (98.504)
+DFL-CNN <==> Train <==> Epoch: [52/100]
+Loss_concat (0.1264)	Loss_split (0.0103)	train_loss  (2.1923)	Prec (98.575)
+DFL-CNN <==> Train <==> Epoch: [53/100]
+Loss_concat (0.1279)	Loss_split (0.0092)	train_loss  (2.1771)	Prec (98.513)
+DFL-CNN <==> Train <==> Epoch: [54/100]
+Loss_concat (0.1238)	Loss_split (0.0100)	train_loss  (2.1442)	Prec (98.583)
+DFL-CNN <==> Train <==> Epoch: [55/100]
+Loss_concat (0.1205)	Loss_split (0.0108)	train_loss  (2.1152)	Prec (98.608)
+DFL-CNN <==> Train <==> Epoch: [56/100]
+Loss_concat (0.1177)	Loss_split (0.0099)	train_loss  (2.0997)	Prec (98.687)
+DFL-CNN <==> Train <==> Epoch: [57/100]
+Loss_concat (0.1177)	Loss_split (0.0097)	train_loss  (2.0883)	Prec (98.655)
+DFL-CNN <==> Train <==> Epoch: [58/100]
+Loss_concat (0.1186)	Loss_split (0.0103)	train_loss  (2.0670)	Prec (98.627)
+DFL-CNN <==> Train <==> Epoch: [59/100]
+Loss_concat (0.1185)	Loss_split (0.0102)	train_loss  (2.0586)	Prec (98.642)
+DFL-CNN <==> Train <==> Epoch: [60/100]
+Loss_concat (0.1164)	Loss_split (0.0095)	train_loss  (2.0379)	Prec (98.639)
+DFL-CNN <==> Train <==> Epoch: [61/100]
+Loss_concat (0.1145)	Loss_split (0.0089)	train_loss  (2.0170)	Prec (98.701)
+DFL-CNN <==> Train <==> Epoch: [62/100]
+Loss_concat (0.1148)	Loss_split (0.0093)	train_loss  (2.0128)	Prec (98.664)
+DFL-CNN <==> Train <==> Epoch: [63/100]
+Loss_concat (0.1111)	Loss_split (0.0091)	train_loss  (1.9856)	Prec (98.724)
+DFL-CNN <==> Train <==> Epoch: [64/100]
+Loss_concat (0.1116)	Loss_split (0.0089)	train_loss  (1.9773)	Prec (98.720)
+DFL-CNN <==> Train <==> Epoch: [65/100]
+Loss_concat (0.1112)	Loss_split (0.0085)	train_loss  (1.9667)	Prec (98.698)
+DFL-CNN <==> Train <==> Epoch: [66/100]
+Loss_concat (0.1096)	Loss_split (0.0096)	train_loss  (1.9530)	Prec (98.697)
+DFL-CNN <==> Train <==> Epoch: [67/100]
+Loss_concat (0.1094)	Loss_split (0.0091)	train_loss  (1.9335)	Prec (98.740)
+DFL-CNN <==> Train <==> Epoch: [68/100]
+Loss_concat (0.1077)	Loss_split (0.0087)	train_loss  (1.9326)	Prec (98.755)
+DFL-CNN <==> Train <==> Epoch: [69/100]
+Loss_concat (0.1068)	Loss_split (0.0093)	train_loss  (1.9151)	Prec (98.781)
+DFL-CNN <==> Train <==> Epoch: [70/100]
+Loss_concat (0.1066)	Loss_split (0.0092)	train_loss  (1.9153)	Prec (98.768)
+DFL-CNN <==> Train <==> Epoch: [71/100]
+Loss_concat (0.1061)	Loss_split (0.0085)	train_loss  (1.9034)	Prec (98.803)
+DFL-CNN <==> Train <==> Epoch: [72/100]
+Loss_concat (0.1062)	Loss_split (0.0089)	train_loss  (1.8964)	Prec (98.778)
+DFL-CNN <==> Train <==> Epoch: [73/100]
+Loss_concat (0.1027)	Loss_split (0.0085)	train_loss  (1.8837)	Prec (98.853)
+DFL-CNN <==> Train <==> Epoch: [74/100]
+Loss_concat (0.1042)	Loss_split (0.0090)	train_loss  (1.8824)	Prec (98.823)
+DFL-CNN <==> Train <==> Epoch: [75/100]
+Loss_concat (0.1046)	Loss_split (0.0083)	train_loss  (1.8705)	Prec (98.805)
